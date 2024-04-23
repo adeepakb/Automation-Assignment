@@ -1482,3 +1482,97 @@ Driver info: driver.version: unknown
 2024-04-23 23:28:42,391 Sent chat I want to order a pizza 
 2024-04-23 23:28:46,430 Sent chat messages  is   verifiedI want to order a pizza 
 2024-04-23 23:28:46,430 Sent chat messages  is   verifiedI want to order a pizza 
+2024-04-23 23:28:50,484 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 23:28:50,485 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 23:28:50,637 Option selected:veg 
+2024-04-23 23:28:50,638 Option selected:veg 
+2024-04-23 23:28:54,687 Sent chat messages  is   verifiedveg 
+2024-04-23 23:28:54,687 Sent chat messages  is   verifiedveg 
+2024-04-23 23:28:54,962 Option selected:Cheese 
+2024-04-23 23:28:54,962 Option selected:Cheese 
+2024-04-23 23:28:59,016 Received Chat messages is   verifiedGreat ! You have Selected cheese 
+2024-04-23 23:28:59,016 Received Chat messages is   verifiedGreat ! You have Selected cheese 
+2024-04-23 23:28:59,153 Option selected:Thick Crust 
+2024-04-23 23:28:59,153 Option selected:Thick Crust 
+2024-04-23 23:29:00,076 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 23:29:00,076 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 23:29:00,485 Size  selected:Medium 
+2024-04-23 23:29:00,485 Size  selected:Medium 
+2024-04-23 23:29:04,553 Received Chat messages is   verifiedWould you like to confirm the order? 
+2024-04-23 23:29:04,553 Received Chat messages is   verifiedWould you like to confirm the order? 
+2024-04-23 23:29:04,693 Quick replyYes  selected: 
+2024-04-23 23:29:04,693 Quick replyYes  selected: 
+2024-04-23 23:29:08,656 Rating items foundGood 
+2024-04-23 23:29:08,657 Rating items foundGood 
+2024-04-23 23:29:08,669 Switched to default content  
+2024-04-23 23:29:08,669 Switched to default content  
+2024-04-23 23:29:08,670 Mac Pizaa Test : Test Passed 
+2024-04-23 23:29:11,033 Total number of testcases : 1 
+2024-04-23 23:29:11,033 Number of testcases Passed : 1 
+2024-04-23 23:29:11,033 Number of testcases Failed : 0 
+2024-04-23 23:29:11,034 Number of testcases Skipped  : 0 
+2024-04-23 23:29:11,034 ************************** Test Execution Finished ************************************ 
+2024-04-23 23:38:15,234 ************************** Test Execution Started ************************************ 
+2024-04-23 23:38:28,755 Mac Pizaa Test: Test started 
+2024-04-23 23:38:29,263 Clicked on  [[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> class name: avaamo__icon] 
+2024-04-23 23:38:29,263 Clicked on  [[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> class name: avaamo__icon] 
+2024-04-23 23:38:29,723 Element identified by [[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> id: avaamo__popup] was  visible 
+2024-04-23 23:38:29,724 Element identified by [[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> id: avaamo__popup] was  visible 
+2024-04-23 23:38:40,189 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 23:38:40,189 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 23:38:40,206 Element identified by [[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> id: avaamo__popup] was  visible 
+2024-04-23 23:38:40,206 Element identified by [[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> id: avaamo__popup] was  visible 
+2024-04-23 23:38:40,295 Switched to frame avaamoIframe 
+2024-04-23 23:38:40,295 Switched to frame avaamoIframe 
+2024-04-23 23:38:40,568 Element identified by [[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> id: first_name] was  visible 
+2024-04-23 23:38:40,568 Element identified by [[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> id: first_name] was  visible 
+2024-04-23 23:38:40,587 Element identified by [[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> id: email] was  visible 
+2024-04-23 23:38:40,587 Element identified by [[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> id: email] was  visible 
+2024-04-23 23:38:40,927 Entered deepak to[[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> id: first_name] 
+2024-04-23 23:38:40,928 Entered deepak to[[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> id: first_name] 
+2024-04-23 23:38:41,083 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> id: email] 
+2024-04-23 23:38:41,084 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> id: email] 
+2024-04-23 23:38:53,146 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 23:38:53,147 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 23:39:03,207 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 23:39:03,208 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 23:39:03,460 Welcome message and image is shown 
+2024-04-23 23:39:03,461 Welcome message and image is shown 
+2024-04-23 23:39:03,873 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> id: queryTextbox] 
+2024-04-23 23:39:03,874 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> id: queryTextbox] 
+2024-04-23 23:39:04,172 Clicked on  [[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> xpath: //button[text()='Send']] 
+2024-04-23 23:39:04,172 Clicked on  [[ChromeDriver: chrome on MAC (2bc247924f17e2f78bf5cbf767b4a784)] -> xpath: //button[text()='Send']] 
+2024-04-23 23:39:04,173 Sent chat I want to order a pizza 
+2024-04-23 23:39:04,173 Sent chat I want to order a pizza 
+2024-04-23 23:39:08,213 Sent chat messages  is   verifiedI want to order a pizza 
+2024-04-23 23:39:08,213 Sent chat messages  is   verifiedI want to order a pizza 
+2024-04-23 23:39:12,400 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 23:39:12,401 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 23:39:12,654 Option selected:veg 
+2024-04-23 23:39:12,655 Option selected:veg 
+2024-04-23 23:39:16,717 Sent chat messages  is   verifiedveg 
+2024-04-23 23:39:16,717 Sent chat messages  is   verifiedveg 
+2024-04-23 23:39:17,077 Option selected:Cheese 
+2024-04-23 23:39:17,077 Option selected:Cheese 
+2024-04-23 23:39:21,157 Received Chat messages is   verifiedGreat ! You have Selected cheese 
+2024-04-23 23:39:21,158 Received Chat messages is   verifiedGreat ! You have Selected cheese 
+2024-04-23 23:39:21,336 Option selected:Thick Crust 
+2024-04-23 23:39:21,337 Option selected:Thick Crust 
+2024-04-23 23:39:22,462 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 23:39:22,462 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 23:39:22,991 Size  selected:Medium 
+2024-04-23 23:39:22,991 Size  selected:Medium 
+2024-04-23 23:39:27,056 Received Chat messages is   verifiedWould you like to confirm the order? 
+2024-04-23 23:39:27,057 Received Chat messages is   verifiedWould you like to confirm the order? 
+2024-04-23 23:39:27,193 Quick replyYes  selected: 
+2024-04-23 23:39:27,193 Quick replyYes  selected: 
+2024-04-23 23:39:29,292 Rating items foundGood 
+2024-04-23 23:39:29,293 Rating items foundGood 
+2024-04-23 23:39:29,307 Switched to default content  
+2024-04-23 23:39:29,324 Switched to default content  
+2024-04-23 23:39:30,171 Mac Pizaa Test : Test Passed 
+2024-04-23 23:39:30,967 Total number of testcases : 1 
+2024-04-23 23:39:30,967 Number of testcases Passed : 1 
+2024-04-23 23:39:30,968 Number of testcases Failed : 0 
+2024-04-23 23:39:30,968 Number of testcases Skipped  : 0 
+2024-04-23 23:39:30,968 ************************** Test Execution Finished ************************************ 
