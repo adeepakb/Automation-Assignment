@@ -61,6 +61,8 @@ public class BaseTest {
         WebDriverManager.chromedriver().setup();
         ChromeOptions ops = new ChromeOptions();
         ops.addArguments("disable-infobars");
+        ops.add_argument("--headless=new")
+
         driver = new ChromeDriver(ops);
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
