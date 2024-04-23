@@ -1,0 +1,1450 @@
+2024-04-22 13:43:47,678 ************************** Test Execution Started ************************************ 
+2024-04-22 13:43:48,330 Total number of testcases : 0 
+2024-04-22 13:43:48,330 Number of testcases Passed : 0 
+2024-04-22 13:43:48,331 Number of testcases Failed : 0 
+2024-04-22 13:43:48,331 Number of testcases Skipped  : 0 
+2024-04-22 13:43:48,331 ************************** Test Execution Finished ************************************ 
+2024-04-22 14:37:57,576 ************************** Test Execution Started ************************************ 
+2024-04-22 14:38:05,421 Mac Pizaa Test : Test Skipped 
+2024-04-22 14:38:05,983 Total number of testcases : 1 
+2024-04-22 14:38:05,984 Number of testcases Passed : 0 
+2024-04-22 14:38:05,984 Number of testcases Failed : 0 
+2024-04-22 14:38:05,984 Number of testcases Skipped  : 1 
+2024-04-22 14:38:05,984 ************************** Test Execution Finished ************************************ 
+2024-04-22 14:39:25,416 ************************** Test Execution Started ************************************ 
+2024-04-22 14:39:35,530 Mac Pizaa Test: Test started 
+2024-04-22 14:55:04,177 ************************** Test Execution Started ************************************ 
+2024-04-22 14:55:04,258 Mac Pizaa Test : Test Skipped 
+2024-04-22 14:55:04,816 Total number of testcases : 1 
+2024-04-22 14:55:04,816 Number of testcases Passed : 0 
+2024-04-22 14:55:04,817 Number of testcases Failed : 0 
+2024-04-22 14:55:04,817 Number of testcases Skipped  : 1 
+2024-04-22 14:55:04,817 ************************** Test Execution Finished ************************************ 
+2024-04-22 14:55:29,891 ************************** Test Execution Started ************************************ 
+2024-04-22 14:55:45,323 Mac Pizaa Test: Test started 
+2024-04-22 14:55:46,436 Mac Pizaa Test : Test Failed : Cannot invoke "org.example.pages.McPizzaPage.waitForPopUp()" because "this.mcPizzaPage" is null 
+2024-04-22 14:55:47,059 Total number of testcases : 1 
+2024-04-22 14:55:47,060 Number of testcases Passed : 0 
+2024-04-22 14:55:47,060 Number of testcases Failed : 1 
+2024-04-22 14:55:47,060 Number of testcases Skipped  : 0 
+2024-04-22 14:55:47,060 ************************** Test Execution Finished ************************************ 
+2024-04-22 14:56:07,710 ************************** Test Execution Started ************************************ 
+2024-04-22 14:56:17,753 Mac Pizaa Test: Test started 
+2024-04-22 14:58:18,981 ************************** Test Execution Started ************************************ 
+2024-04-22 14:58:33,993 Mac Pizaa Test: Test started 
+2024-04-22 15:06:14,753 ************************** Test Execution Started ************************************ 
+2024-04-22 15:06:26,252 Mac Pizaa Test: Test started 
+2024-04-22 15:12:47,610 ************************** Test Execution Started ************************************ 
+2024-04-22 15:12:59,636 Mac Pizaa Test: Test started 
+2024-04-22 17:03:17,932 ************************** Test Execution Started ************************************ 
+2024-04-22 17:03:33,464 Mac Pizaa Test: Test started 
+2024-04-22 17:03:35,003 Mac Pizaa Test : Test Passed 
+2024-04-22 17:03:35,576 Total number of testcases : 1 
+2024-04-22 17:03:35,576 Number of testcases Passed : 1 
+2024-04-22 17:03:35,577 Number of testcases Failed : 0 
+2024-04-22 17:03:35,577 Number of testcases Skipped  : 0 
+2024-04-22 17:03:35,577 ************************** Test Execution Finished ************************************ 
+2024-04-22 17:04:08,626 ************************** Test Execution Started ************************************ 
+2024-04-22 17:04:18,816 Mac Pizaa Test: Test started 
+2024-04-22 17:11:36,297 ************************** Test Execution Started ************************************ 
+2024-04-22 17:11:51,941 Mac Pizaa Test: Test started 
+2024-04-22 17:18:00,175 ************************** Test Execution Started ************************************ 
+2024-04-22 17:18:15,646 Mac Pizaa Test: Test started 
+2024-04-22 17:18:29,787 Element identified by [[ChromeDriver: chrome on MAC (1b890050f53783053f0ea710d9f93f1f)] -> id: avaamo__popup] was  visible 
+2024-04-22 17:22:53,511 ************************** Test Execution Started ************************************ 
+2024-04-22 17:23:02,972 Mac Pizaa Test: Test started 
+2024-04-22 17:23:09,893 Element identified by [[ChromeDriver: chrome on MAC (f25972b70cda60e56c2faa33943e9b5c)] -> id: avaamo__popup] was  visible 
+2024-04-22 17:27:25,696 Element identified by [[ChromeDriver: chrome on MAC (f25972b70cda60e56c2faa33943e9b5c)] -> id: avaamo__popup] was  visible 
+2024-04-22 17:27:34,442 ************************** Test Execution Started ************************************ 
+2024-04-22 17:27:49,966 Mac Pizaa Test: Test started 
+2024-04-22 17:28:00,790 Element identified by [[ChromeDriver: chrome on MAC (371bacf5ca40211ff87f5d6f2b444af5)] -> id: avaamo__popup] was  visible 
+2024-04-22 17:28:22,893 Element identified by [[ChromeDriver: chrome on MAC (371bacf5ca40211ff87f5d6f2b444af5)] -> id: avaamo__popup] was  visible 
+2024-04-22 17:38:40,994 ************************** Test Execution Started ************************************ 
+2024-04-22 17:38:52,390 Mac Pizaa Test: Test started 
+2024-04-22 17:38:59,747 Element identified by [[ChromeDriver: chrome on MAC (c046270282c2b2608bd21d311b6719a5)] -> id: avaamo__popup] was not visible 
+2024-04-22 17:39:07,061 Element identified by [[ChromeDriver: chrome on MAC (c046270282c2b2608bd21d311b6719a5)] -> id: avaamo__popup] was  visible 
+2024-04-22 18:43:21,749 ************************** Test Execution Started ************************************ 
+2024-04-22 18:43:37,815 Mac Pizaa Test: Test started 
+2024-04-22 18:43:38,248 Element identified by [[ChromeDriver: chrome on MAC (e411ad5bb28dc632057b0feb5c6b179e)] -> id: avaamo__popup] was  visible 
+2024-04-22 18:47:45,971 Element identified by [[ChromeDriver: chrome on MAC (e411ad5bb28dc632057b0feb5c6b179e)] -> id: avaamo__popup] was  visible 
+2024-04-22 18:52:43,661 ************************** Test Execution Started ************************************ 
+2024-04-22 18:52:47,508 ************************** Test Execution Started ************************************ 
+2024-04-22 18:53:02,684 Mac Pizaa Test: Test started 
+2024-04-22 18:53:03,083 Element identified by [[ChromeDriver: chrome on MAC (ad0985999b18d962f69398890c1bf4b0)] -> id: avaamo__popup] was  visible 
+2024-04-22 18:53:08,459 Element identified by [[ChromeDriver: chrome on MAC (ad0985999b18d962f69398890c1bf4b0)] -> id: avaamo__popup] was  visible 
+2024-04-22 20:28:41,801 ************************** Test Execution Started ************************************ 
+2024-04-22 20:28:58,477 Mac Pizaa Test: Test started 
+2024-04-22 20:28:58,942 Element identified by [[ChromeDriver: chrome on MAC (3b185a4b19a15a6ceb8f60267dcf48b1)] -> id: avaamo__popup] was  visible 
+2024-04-22 20:29:05,840 Element identified by [[ChromeDriver: chrome on MAC (3b185a4b19a15a6ceb8f60267dcf48b1)] -> id: avaamo__popup] was  visible 
+2024-04-22 20:44:55,246 ************************** Test Execution Started ************************************ 
+2024-04-22 20:45:05,861 Mac Pizaa Test: Test started 
+2024-04-22 20:45:06,274 Element identified by [[ChromeDriver: chrome on MAC (3f7875df58f4362970703aef0a5a212a)] -> id: avaamo__popup] was  visible 
+2024-04-22 20:45:10,915 Element identified by [[ChromeDriver: chrome on MAC (3f7875df58f4362970703aef0a5a212a)] -> id: avaamo__popup] was  visible 
+2024-04-22 20:49:42,096 Element identified by [[ChromeDriver: chrome on MAC (3f7875df58f4362970703aef0a5a212a)] -> id: first_name] was  visible 
+2024-04-22 20:49:42,122 Element identified by [[ChromeDriver: chrome on MAC (3f7875df58f4362970703aef0a5a212a)] -> id: email] was  visible 
+2024-04-22 20:54:48,704 ************************** Test Execution Started ************************************ 
+2024-04-22 20:55:01,364 Mac Pizaa Test: Test started 
+2024-04-22 20:55:02,651 Element identified by [[ChromeDriver: chrome on MAC (9cee7229120fb02c7c012d6073d45a10)] -> class name: avaamo__icon] was not visible 
+2024-04-22 20:55:09,776 Element identified by [[ChromeDriver: chrome on MAC (9cee7229120fb02c7c012d6073d45a10)] -> id: avaamo__popup] was not visible 
+2024-04-22 20:55:15,211 Element identified by [[ChromeDriver: chrome on MAC (9cee7229120fb02c7c012d6073d45a10)] -> id: avaamo__popup] was not visible 
+2024-04-22 20:55:35,289 Couldn't find frame avaamoIframeNo frame element found by name or id avaamoIframe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'FCIs-MacBook-Pro.local', ip: '2405:201:a41e:2913:6452:e4b8:e3a0:4983%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '21.0.1'
+Driver info: driver.version: unknown 
+2024-04-22 20:56:50,564 Element identified by Proxy element for: DefaultElementLocator 'By.id: first_name' was not visible 
+2024-04-22 20:57:10,150 Switched to default content  
+2024-04-22 20:57:19,496 ************************** Test Execution Started ************************************ 
+2024-04-22 20:57:28,670 Mac Pizaa Test: Test started 
+2024-04-22 20:57:29,108 Element identified by [[ChromeDriver: chrome on MAC (7dedb42ef111177b86b9bd6a16d416d3)] -> id: avaamo__popup] was  visible 
+2024-04-22 20:57:29,268 Element identified by [[ChromeDriver: chrome on MAC (7dedb42ef111177b86b9bd6a16d416d3)] -> id: avaamo__popup] was  visible 
+2024-04-22 20:57:31,171 Switched to frame avaamoIframe 
+2024-04-22 20:57:41,680 Element identified by [[ChromeDriver: chrome on MAC (7dedb42ef111177b86b9bd6a16d416d3)] -> id: first_name] was  visible 
+2024-04-22 20:57:41,713 Element identified by [[ChromeDriver: chrome on MAC (7dedb42ef111177b86b9bd6a16d416d3)] -> id: email] was  visible 
+2024-04-22 21:12:41,421 Couldn't find frame default content 
+2024-04-22 21:21:14,833 ************************** Test Execution Started ************************************ 
+2024-04-22 21:21:29,210 Mac Pizaa Test: Test started 
+2024-04-22 21:21:29,720 Element identified by [[ChromeDriver: chrome on MAC (a78d8cc2ab1b9b6d281c4fcd95d90b02)] -> id: avaamo__popup] was  visible 
+2024-04-22 21:21:29,885 Element identified by [[ChromeDriver: chrome on MAC (a78d8cc2ab1b9b6d281c4fcd95d90b02)] -> id: avaamo__popup] was  visible 
+2024-04-22 21:21:34,099 Switched to frame avaamoIframe 
+2024-04-22 21:21:34,280 Element identified by [[ChromeDriver: chrome on MAC (a78d8cc2ab1b9b6d281c4fcd95d90b02)] -> id: first_name] was  visible 
+2024-04-22 21:21:34,294 Element identified by [[ChromeDriver: chrome on MAC (a78d8cc2ab1b9b6d281c4fcd95d90b02)] -> id: email] was  visible 
+2024-04-22 21:22:35,374 Entered deepak to[[ChromeDriver: chrome on MAC (a78d8cc2ab1b9b6d281c4fcd95d90b02)] -> id: first_name] 
+2024-04-22 21:22:35,524 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (a78d8cc2ab1b9b6d281c4fcd95d90b02)] -> id: first_name] 
+2024-04-22 21:22:55,657 Logged in successfully to deepakand [[ChromeDriver: chrome on MAC (a78d8cc2ab1b9b6d281c4fcd95d90b02)] -> id: email] 
+2024-04-22 21:23:21,179 ************************** Test Execution Started ************************************ 
+2024-04-22 21:23:30,102 Mac Pizaa Test: Test started 
+2024-04-22 21:23:30,496 Element identified by [[ChromeDriver: chrome on MAC (b898048d24a626dcb535e047d60eb9c3)] -> id: avaamo__popup] was  visible 
+2024-04-22 21:23:30,658 Element identified by [[ChromeDriver: chrome on MAC (b898048d24a626dcb535e047d60eb9c3)] -> id: avaamo__popup] was  visible 
+2024-04-22 21:23:31,856 Switched to frame avaamoIframe 
+2024-04-22 21:23:32,035 Element identified by [[ChromeDriver: chrome on MAC (b898048d24a626dcb535e047d60eb9c3)] -> id: first_name] was  visible 
+2024-04-22 21:23:32,048 Element identified by [[ChromeDriver: chrome on MAC (b898048d24a626dcb535e047d60eb9c3)] -> id: email] was  visible 
+2024-04-22 21:23:32,324 Entered deepak to[[ChromeDriver: chrome on MAC (b898048d24a626dcb535e047d60eb9c3)] -> id: first_name] 
+2024-04-22 21:23:32,498 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (b898048d24a626dcb535e047d60eb9c3)] -> id: email] 
+2024-04-22 21:23:52,623 Logged in successfully to deepakand [[ChromeDriver: chrome on MAC (b898048d24a626dcb535e047d60eb9c3)] -> id: email] 
+2024-04-22 21:24:23,352 Switched to default content  
+2024-04-22 21:24:36,337 ************************** Test Execution Started ************************************ 
+2024-04-22 21:24:45,248 Mac Pizaa Test: Test started 
+2024-04-22 21:24:46,596 Element identified by [[ChromeDriver: chrome on MAC (a31733937bb43477248d528496a2112a)] -> class name: avaamo__icon] was not visible 
+2024-04-22 21:24:54,057 Element identified by [[ChromeDriver: chrome on MAC (a31733937bb43477248d528496a2112a)] -> id: avaamo__popup] was not visible 
+2024-04-22 21:24:59,560 Element identified by [[ChromeDriver: chrome on MAC (a31733937bb43477248d528496a2112a)] -> id: avaamo__popup] was not visible 
+2024-04-22 21:25:19,598 Couldn't find frame avaamoIframeNo frame element found by name or id avaamoIframe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'FCIs-MacBook-Pro.local', ip: '2405:201:a41e:2913:6452:e4b8:e3a0:4983%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '21.0.1'
+Driver info: driver.version: unknown 
+2024-04-22 21:25:49,747 Element identified by Proxy element for: DefaultElementLocator 'By.id: first_name' was not visible 
+2024-04-22 21:26:19,956 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-22 21:26:27,963 Switched to default content  
+2024-04-22 21:26:49,859 ************************** Test Execution Started ************************************ 
+2024-04-22 21:27:00,923 Mac Pizaa Test: Test started 
+2024-04-22 21:27:01,159 Clicked on  [[ChromeDriver: chrome on MAC (13c98414bfbfee966d694863427d9c03)] -> class name: avaamo__icon] 
+2024-04-22 21:27:01,369 Element identified by [[ChromeDriver: chrome on MAC (13c98414bfbfee966d694863427d9c03)] -> id: avaamo__popup] was  visible 
+2024-04-22 21:27:11,579 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-22 21:27:11,594 Element identified by [[ChromeDriver: chrome on MAC (13c98414bfbfee966d694863427d9c03)] -> id: avaamo__popup] was  visible 
+2024-04-22 21:27:11,655 Switched to frame avaamoIframe 
+2024-04-22 21:27:11,847 Element identified by [[ChromeDriver: chrome on MAC (13c98414bfbfee966d694863427d9c03)] -> id: first_name] was  visible 
+2024-04-22 21:27:11,861 Element identified by [[ChromeDriver: chrome on MAC (13c98414bfbfee966d694863427d9c03)] -> id: email] was  visible 
+2024-04-22 21:27:12,208 Entered deepak to[[ChromeDriver: chrome on MAC (13c98414bfbfee966d694863427d9c03)] -> id: first_name] 
+2024-04-22 21:27:12,390 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (13c98414bfbfee966d694863427d9c03)] -> id: email] 
+2024-04-22 21:28:35,349 ************************** Test Execution Started ************************************ 
+2024-04-22 21:28:47,492 Mac Pizaa Test: Test started 
+2024-04-22 21:28:47,836 Clicked on  [[ChromeDriver: chrome on MAC (285a0c659f3dcddd29f04f14d913614d)] -> class name: avaamo__icon] 
+2024-04-22 21:28:48,066 Element identified by [[ChromeDriver: chrome on MAC (285a0c659f3dcddd29f04f14d913614d)] -> id: avaamo__popup] was  visible 
+2024-04-22 21:28:58,353 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-22 21:28:58,367 Element identified by [[ChromeDriver: chrome on MAC (285a0c659f3dcddd29f04f14d913614d)] -> id: avaamo__popup] was  visible 
+2024-04-22 21:28:58,423 Switched to frame avaamoIframe 
+2024-04-22 21:28:58,601 Element identified by [[ChromeDriver: chrome on MAC (285a0c659f3dcddd29f04f14d913614d)] -> id: first_name] was  visible 
+2024-04-22 21:28:58,614 Element identified by [[ChromeDriver: chrome on MAC (285a0c659f3dcddd29f04f14d913614d)] -> id: email] was  visible 
+2024-04-22 21:28:58,916 Entered deepak to[[ChromeDriver: chrome on MAC (285a0c659f3dcddd29f04f14d913614d)] -> id: first_name] 
+2024-04-22 21:28:59,073 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (285a0c659f3dcddd29f04f14d913614d)] -> id: email] 
+2024-04-22 21:29:29,205 Logged in successfully to deepakand [[ChromeDriver: chrome on MAC (285a0c659f3dcddd29f04f14d913614d)] -> id: email] 
+2024-04-22 21:50:42,983 Couldn't find frame default content 
+2024-04-23 10:55:04,275 ************************** Test Execution Started ************************************ 
+2024-04-23 10:56:11,107 Mac Pizaa Test: Test started 
+2024-04-23 10:56:11,433 Clicked on  [[ChromeDriver: chrome on MAC (1ccaf0fe3794db2338a74328fbf613e4)] -> class name: avaamo__icon] 
+2024-04-23 10:56:11,681 Element identified by [[ChromeDriver: chrome on MAC (1ccaf0fe3794db2338a74328fbf613e4)] -> id: avaamo__popup] was  visible 
+2024-04-23 10:56:21,990 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 10:56:22,026 Element identified by [[ChromeDriver: chrome on MAC (1ccaf0fe3794db2338a74328fbf613e4)] -> id: avaamo__popup] was  visible 
+2024-04-23 10:56:22,120 Switched to frame avaamoIframe 
+2024-04-23 10:56:22,333 Element identified by [[ChromeDriver: chrome on MAC (1ccaf0fe3794db2338a74328fbf613e4)] -> id: first_name] was  visible 
+2024-04-23 10:56:22,348 Element identified by [[ChromeDriver: chrome on MAC (1ccaf0fe3794db2338a74328fbf613e4)] -> id: email] was  visible 
+2024-04-23 10:56:22,912 Entered deepak to[[ChromeDriver: chrome on MAC (1ccaf0fe3794db2338a74328fbf613e4)] -> id: first_name] 
+2024-04-23 10:56:23,129 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (1ccaf0fe3794db2338a74328fbf613e4)] -> id: email] 
+2024-04-23 10:56:43,290 Logged in successfully to deepakand [[ChromeDriver: chrome on MAC (1ccaf0fe3794db2338a74328fbf613e4)] -> id: email] 
+2024-04-23 10:57:20,948 Switched to default content  
+2024-04-23 10:57:28,208 ************************** Test Execution Started ************************************ 
+2024-04-23 10:57:39,038 Mac Pizaa Test: Test started 
+2024-04-23 10:57:39,359 Clicked on  [[ChromeDriver: chrome on MAC (91b1967d5b7d3b06064c9f84f5f06637)] -> class name: avaamo__icon] 
+2024-04-23 10:57:39,655 Element identified by [[ChromeDriver: chrome on MAC (91b1967d5b7d3b06064c9f84f5f06637)] -> id: avaamo__popup] was  visible 
+2024-04-23 10:57:49,978 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 10:57:49,992 Element identified by [[ChromeDriver: chrome on MAC (91b1967d5b7d3b06064c9f84f5f06637)] -> id: avaamo__popup] was  visible 
+2024-04-23 10:57:50,052 Switched to frame avaamoIframe 
+2024-04-23 10:57:50,242 Element identified by [[ChromeDriver: chrome on MAC (91b1967d5b7d3b06064c9f84f5f06637)] -> id: first_name] was  visible 
+2024-04-23 10:57:50,257 Element identified by [[ChromeDriver: chrome on MAC (91b1967d5b7d3b06064c9f84f5f06637)] -> id: email] was  visible 
+2024-04-23 10:57:50,590 Entered deepak to[[ChromeDriver: chrome on MAC (91b1967d5b7d3b06064c9f84f5f06637)] -> id: first_name] 
+2024-04-23 10:57:50,798 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (91b1967d5b7d3b06064c9f84f5f06637)] -> id: email] 
+2024-04-23 11:21:37,363 ************************** Test Execution Started ************************************ 
+2024-04-23 11:21:48,410 Mac Pizaa Test: Test started 
+2024-04-23 11:21:48,656 Clicked on  [[ChromeDriver: chrome on MAC (8c0151d665f3f92b2c886f40a0cc1ce8)] -> class name: avaamo__icon] 
+2024-04-23 11:21:48,854 Element identified by [[ChromeDriver: chrome on MAC (8c0151d665f3f92b2c886f40a0cc1ce8)] -> id: avaamo__popup] was  visible 
+2024-04-23 11:21:59,090 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 11:21:59,103 Element identified by [[ChromeDriver: chrome on MAC (8c0151d665f3f92b2c886f40a0cc1ce8)] -> id: avaamo__popup] was  visible 
+2024-04-23 11:21:59,168 Switched to frame avaamoIframe 
+2024-04-23 11:21:59,377 Element identified by [[ChromeDriver: chrome on MAC (8c0151d665f3f92b2c886f40a0cc1ce8)] -> id: first_name] was  visible 
+2024-04-23 11:21:59,395 Element identified by [[ChromeDriver: chrome on MAC (8c0151d665f3f92b2c886f40a0cc1ce8)] -> id: email] was  visible 
+2024-04-23 11:21:59,805 Entered deepak to[[ChromeDriver: chrome on MAC (8c0151d665f3f92b2c886f40a0cc1ce8)] -> id: first_name] 
+2024-04-23 11:22:00,048 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (8c0151d665f3f92b2c886f40a0cc1ce8)] -> id: email] 
+2024-04-23 11:22:25,777 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 11:22:45,904 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 11:28:50,006 Switched to default content  
+2024-04-23 11:55:10,576 ************************** Test Execution Started ************************************ 
+2024-04-23 11:55:24,172 Mac Pizaa Test: Test started 
+2024-04-23 11:55:24,761 Clicked on  [[ChromeDriver: chrome on MAC (a1fa8b66be886263688697b5287570f6)] -> class name: avaamo__icon] 
+2024-04-23 11:55:24,968 Element identified by [[ChromeDriver: chrome on MAC (a1fa8b66be886263688697b5287570f6)] -> id: avaamo__popup] was  visible 
+2024-04-23 11:55:35,193 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 11:55:35,207 Element identified by [[ChromeDriver: chrome on MAC (a1fa8b66be886263688697b5287570f6)] -> id: avaamo__popup] was  visible 
+2024-04-23 11:55:35,266 Switched to frame avaamoIframe 
+2024-04-23 11:55:35,448 Element identified by [[ChromeDriver: chrome on MAC (a1fa8b66be886263688697b5287570f6)] -> id: first_name] was  visible 
+2024-04-23 11:55:35,475 Element identified by [[ChromeDriver: chrome on MAC (a1fa8b66be886263688697b5287570f6)] -> id: email] was  visible 
+2024-04-23 11:55:35,899 Entered deepak to[[ChromeDriver: chrome on MAC (a1fa8b66be886263688697b5287570f6)] -> id: first_name] 
+2024-04-23 11:55:36,068 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (a1fa8b66be886263688697b5287570f6)] -> id: email] 
+2024-04-23 11:55:53,794 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 11:56:03,847 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 11:56:03,998 Welcome message and image is shown 
+2024-04-23 11:56:04,004 Switched to default content  
+2024-04-23 11:56:04,004 Mac Pizaa Test : Test Passed 
+2024-04-23 11:56:05,959 Total number of testcases : 1 
+2024-04-23 11:56:05,960 Number of testcases Passed : 1 
+2024-04-23 11:56:05,960 Number of testcases Failed : 0 
+2024-04-23 11:56:05,960 Number of testcases Skipped  : 0 
+2024-04-23 11:56:05,960 ************************** Test Execution Finished ************************************ 
+2024-04-23 12:01:21,693 ************************** Test Execution Started ************************************ 
+2024-04-23 12:01:35,367 Mac Pizaa Test: Test started 
+2024-04-23 12:01:35,793 Clicked on  [[ChromeDriver: chrome on MAC (cf49aea9c7fef96098e181ca3e25c08f)] -> class name: avaamo__icon] 
+2024-04-23 12:01:36,013 Element identified by [[ChromeDriver: chrome on MAC (cf49aea9c7fef96098e181ca3e25c08f)] -> id: avaamo__popup] was  visible 
+2024-04-23 12:01:46,294 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 12:01:46,308 Element identified by [[ChromeDriver: chrome on MAC (cf49aea9c7fef96098e181ca3e25c08f)] -> id: avaamo__popup] was  visible 
+2024-04-23 12:01:46,366 Switched to frame avaamoIframe 
+2024-04-23 12:01:46,542 Element identified by [[ChromeDriver: chrome on MAC (cf49aea9c7fef96098e181ca3e25c08f)] -> id: first_name] was  visible 
+2024-04-23 12:01:46,555 Element identified by [[ChromeDriver: chrome on MAC (cf49aea9c7fef96098e181ca3e25c08f)] -> id: email] was  visible 
+2024-04-23 12:01:46,934 Entered deepak to[[ChromeDriver: chrome on MAC (cf49aea9c7fef96098e181ca3e25c08f)] -> id: first_name] 
+2024-04-23 12:01:47,099 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (cf49aea9c7fef96098e181ca3e25c08f)] -> id: email] 
+2024-04-23 12:02:03,735 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 12:02:13,767 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 13:20:53,467 Welcome message and image is shown 
+2024-04-23 13:20:53,495 Switched to default content  
+2024-04-23 13:49:41,382 ************************** Test Execution Started ************************************ 
+2024-04-23 13:49:55,384 Mac Pizaa Test: Test started 
+2024-04-23 13:49:55,689 Clicked on  [[ChromeDriver: chrome on MAC (e6677631b94b548300975295f86aa8b7)] -> class name: avaamo__icon] 
+2024-04-23 13:49:55,925 Element identified by [[ChromeDriver: chrome on MAC (e6677631b94b548300975295f86aa8b7)] -> id: avaamo__popup] was  visible 
+2024-04-23 13:50:06,171 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 13:50:06,185 Element identified by [[ChromeDriver: chrome on MAC (e6677631b94b548300975295f86aa8b7)] -> id: avaamo__popup] was  visible 
+2024-04-23 13:50:06,244 Switched to frame avaamoIframe 
+2024-04-23 13:50:06,418 Element identified by [[ChromeDriver: chrome on MAC (e6677631b94b548300975295f86aa8b7)] -> id: first_name] was  visible 
+2024-04-23 13:50:06,431 Element identified by [[ChromeDriver: chrome on MAC (e6677631b94b548300975295f86aa8b7)] -> id: email] was  visible 
+2024-04-23 13:50:06,828 Entered deepak to[[ChromeDriver: chrome on MAC (e6677631b94b548300975295f86aa8b7)] -> id: first_name] 
+2024-04-23 13:50:07,001 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (e6677631b94b548300975295f86aa8b7)] -> id: email] 
+2024-04-23 13:50:19,602 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 13:50:29,636 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 13:50:47,133 ************************** Test Execution Started ************************************ 
+2024-04-23 13:51:02,700 Mac Pizaa Test: Test started 
+2024-04-23 13:51:02,939 Clicked on  [[ChromeDriver: chrome on MAC (41933d8b492df73161f9785d88e0e82f)] -> class name: avaamo__icon] 
+2024-04-23 13:51:03,143 Element identified by [[ChromeDriver: chrome on MAC (41933d8b492df73161f9785d88e0e82f)] -> id: avaamo__popup] was  visible 
+2024-04-23 13:51:13,330 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 13:51:13,343 Element identified by [[ChromeDriver: chrome on MAC (41933d8b492df73161f9785d88e0e82f)] -> id: avaamo__popup] was  visible 
+2024-04-23 13:51:13,399 Switched to frame avaamoIframe 
+2024-04-23 13:51:13,577 Element identified by [[ChromeDriver: chrome on MAC (41933d8b492df73161f9785d88e0e82f)] -> id: first_name] was  visible 
+2024-04-23 13:51:13,590 Element identified by [[ChromeDriver: chrome on MAC (41933d8b492df73161f9785d88e0e82f)] -> id: email] was  visible 
+2024-04-23 13:51:13,879 Entered deepak to[[ChromeDriver: chrome on MAC (41933d8b492df73161f9785d88e0e82f)] -> id: first_name] 
+2024-04-23 13:51:14,055 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (41933d8b492df73161f9785d88e0e82f)] -> id: email] 
+2024-04-23 13:51:28,246 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 13:51:38,260 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 13:51:38,411 Welcome message and image is shown 
+2024-04-23 13:51:38,569 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (41933d8b492df73161f9785d88e0e82f)] -> id: queryTextbox] 
+2024-04-23 13:51:38,811 Clicked on  [[ChromeDriver: chrome on MAC (41933d8b492df73161f9785d88e0e82f)] -> xpath: //button[text()='Send']] 
+2024-04-23 13:51:38,811 Sent chat I want to order a pizza 
+2024-04-23 13:51:38,851 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 14:00:23,112 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 14:00:23,337 Switched to default content  
+2024-04-23 14:00:33,692 ************************** Test Execution Started ************************************ 
+2024-04-23 14:00:46,111 Mac Pizaa Test: Test started 
+2024-04-23 14:00:46,358 Clicked on  [[ChromeDriver: chrome on MAC (43f55569af3e8bc37d987231398b8bad)] -> class name: avaamo__icon] 
+2024-04-23 14:00:46,574 Element identified by [[ChromeDriver: chrome on MAC (43f55569af3e8bc37d987231398b8bad)] -> id: avaamo__popup] was  visible 
+2024-04-23 14:00:56,829 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 14:00:56,844 Element identified by [[ChromeDriver: chrome on MAC (43f55569af3e8bc37d987231398b8bad)] -> id: avaamo__popup] was  visible 
+2024-04-23 14:00:56,901 Switched to frame avaamoIframe 
+2024-04-23 14:00:57,083 Element identified by [[ChromeDriver: chrome on MAC (43f55569af3e8bc37d987231398b8bad)] -> id: first_name] was  visible 
+2024-04-23 14:00:57,099 Element identified by [[ChromeDriver: chrome on MAC (43f55569af3e8bc37d987231398b8bad)] -> id: email] was  visible 
+2024-04-23 14:01:43,044 ************************** Test Execution Started ************************************ 
+2024-04-23 14:01:57,605 Mac Pizaa Test: Test started 
+2024-04-23 14:01:57,886 Clicked on  [[ChromeDriver: chrome on MAC (71de98f8394b0b83e3d4c01b94effc64)] -> class name: avaamo__icon] 
+2024-04-23 14:01:58,098 Element identified by [[ChromeDriver: chrome on MAC (71de98f8394b0b83e3d4c01b94effc64)] -> id: avaamo__popup] was  visible 
+2024-04-23 14:02:08,322 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 14:02:08,338 Element identified by [[ChromeDriver: chrome on MAC (71de98f8394b0b83e3d4c01b94effc64)] -> id: avaamo__popup] was  visible 
+2024-04-23 14:02:08,405 Switched to frame avaamoIframe 
+2024-04-23 14:02:08,602 Element identified by [[ChromeDriver: chrome on MAC (71de98f8394b0b83e3d4c01b94effc64)] -> id: first_name] was  visible 
+2024-04-23 14:02:08,615 Element identified by [[ChromeDriver: chrome on MAC (71de98f8394b0b83e3d4c01b94effc64)] -> id: email] was  visible 
+2024-04-23 14:02:08,981 Entered deepak to[[ChromeDriver: chrome on MAC (71de98f8394b0b83e3d4c01b94effc64)] -> id: first_name] 
+2024-04-23 14:02:09,148 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (71de98f8394b0b83e3d4c01b94effc64)] -> id: email] 
+2024-04-23 14:02:26,857 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 14:02:36,892 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 14:02:37,049 Welcome message and image is shown 
+2024-04-23 14:02:37,193 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (71de98f8394b0b83e3d4c01b94effc64)] -> id: queryTextbox] 
+2024-04-23 14:02:37,399 Clicked on  [[ChromeDriver: chrome on MAC (71de98f8394b0b83e3d4c01b94effc64)] -> xpath: //button[text()='Send']] 
+2024-04-23 14:02:37,399 Sent chat I want to order a pizza 
+2024-04-23 14:02:37,438 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 14:02:57,919 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 14:18:31,934 Option selected:veg 
+2024-04-23 14:18:31,998 Couldn’t  select option:veg 
+2024-04-23 14:18:32,011 Switched to default content  
+2024-04-23 14:19:11,077 ************************** Test Execution Started ************************************ 
+2024-04-23 14:19:24,744 Mac Pizaa Test: Test started 
+2024-04-23 14:19:25,051 Clicked on  [[ChromeDriver: chrome on MAC (28cd7c25b804eef2c5082db31676af8e)] -> class name: avaamo__icon] 
+2024-04-23 14:19:25,248 Element identified by [[ChromeDriver: chrome on MAC (28cd7c25b804eef2c5082db31676af8e)] -> id: avaamo__popup] was  visible 
+2024-04-23 14:19:35,457 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 14:19:35,476 Element identified by [[ChromeDriver: chrome on MAC (28cd7c25b804eef2c5082db31676af8e)] -> id: avaamo__popup] was  visible 
+2024-04-23 14:19:35,540 Switched to frame avaamoIframe 
+2024-04-23 14:19:35,715 Element identified by [[ChromeDriver: chrome on MAC (28cd7c25b804eef2c5082db31676af8e)] -> id: first_name] was  visible 
+2024-04-23 14:19:35,728 Element identified by [[ChromeDriver: chrome on MAC (28cd7c25b804eef2c5082db31676af8e)] -> id: email] was  visible 
+2024-04-23 14:19:36,111 Entered deepak to[[ChromeDriver: chrome on MAC (28cd7c25b804eef2c5082db31676af8e)] -> id: first_name] 
+2024-04-23 14:19:36,264 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (28cd7c25b804eef2c5082db31676af8e)] -> id: email] 
+2024-04-23 14:19:50,549 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 14:20:00,601 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 14:20:00,750 Welcome message and image is shown 
+2024-04-23 14:20:00,902 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (28cd7c25b804eef2c5082db31676af8e)] -> id: queryTextbox] 
+2024-04-23 14:20:01,126 Clicked on  [[ChromeDriver: chrome on MAC (28cd7c25b804eef2c5082db31676af8e)] -> xpath: //button[text()='Send']] 
+2024-04-23 14:20:01,127 Sent chat I want to order a pizza 
+2024-04-23 14:20:01,165 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 14:20:21,776 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 14:20:32,553 Option selected:veg 
+2024-04-23 14:20:32,678 Couldn’t  select option:veg 
+2024-04-23 14:20:42,902 Received Chat messages is   verifiedveg 
+2024-04-23 14:48:38,405 Option selected:Cheese 
+2024-04-23 14:48:45,433 ************************** Test Execution Started ************************************ 
+2024-04-23 14:48:59,475 Mac Pizaa Test: Test started 
+2024-04-23 14:48:59,727 Clicked on  [[ChromeDriver: chrome on MAC (f53c8d780f81f9ab0fbdd31748c6679f)] -> class name: avaamo__icon] 
+2024-04-23 14:48:59,943 Element identified by [[ChromeDriver: chrome on MAC (f53c8d780f81f9ab0fbdd31748c6679f)] -> id: avaamo__popup] was  visible 
+2024-04-23 14:49:10,190 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 14:49:10,203 Element identified by [[ChromeDriver: chrome on MAC (f53c8d780f81f9ab0fbdd31748c6679f)] -> id: avaamo__popup] was  visible 
+2024-04-23 14:49:10,259 Switched to frame avaamoIframe 
+2024-04-23 14:49:10,434 Element identified by [[ChromeDriver: chrome on MAC (f53c8d780f81f9ab0fbdd31748c6679f)] -> id: first_name] was  visible 
+2024-04-23 14:49:10,446 Element identified by [[ChromeDriver: chrome on MAC (f53c8d780f81f9ab0fbdd31748c6679f)] -> id: email] was  visible 
+2024-04-23 14:49:10,725 Entered deepak to[[ChromeDriver: chrome on MAC (f53c8d780f81f9ab0fbdd31748c6679f)] -> id: first_name] 
+2024-04-23 14:49:10,899 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (f53c8d780f81f9ab0fbdd31748c6679f)] -> id: email] 
+2024-04-23 14:49:25,870 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 14:49:35,883 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 14:49:36,097 Welcome message and image is shown 
+2024-04-23 14:49:36,430 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (f53c8d780f81f9ab0fbdd31748c6679f)] -> id: queryTextbox] 
+2024-04-23 14:49:36,774 Clicked on  [[ChromeDriver: chrome on MAC (f53c8d780f81f9ab0fbdd31748c6679f)] -> xpath: //button[text()='Send']] 
+2024-04-23 14:49:36,775 Sent chat I want to order a pizza 
+2024-04-23 14:49:36,824 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 14:49:57,578 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 14:49:57,722 Option selected:veg 
+2024-04-23 14:49:57,764 Couldn’t  select option:veg 
+2024-04-23 14:50:17,883 Received Chat messages is   verifiedveg 
+2024-04-23 14:50:48,419 Option selected:Cheese 
+2024-04-23 14:50:48,514 Received Chat messages is   verifiedGreat ! You have Selected cheese 
+2024-04-23 15:26:02,279 ************************** Test Execution Started ************************************ 
+2024-04-23 15:26:14,670 Mac Pizaa Test: Test started 
+2024-04-23 15:26:14,925 Clicked on  [[ChromeDriver: chrome on MAC (2b4697682b23d314f9048b7bbd88b7f8)] -> class name: avaamo__icon] 
+2024-04-23 15:26:15,142 Element identified by [[ChromeDriver: chrome on MAC (2b4697682b23d314f9048b7bbd88b7f8)] -> id: avaamo__popup] was  visible 
+2024-04-23 15:26:25,337 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 15:26:25,357 Element identified by [[ChromeDriver: chrome on MAC (2b4697682b23d314f9048b7bbd88b7f8)] -> id: avaamo__popup] was  visible 
+2024-04-23 15:26:25,421 Switched to frame avaamoIframe 
+2024-04-23 15:26:25,612 Element identified by [[ChromeDriver: chrome on MAC (2b4697682b23d314f9048b7bbd88b7f8)] -> id: first_name] was  visible 
+2024-04-23 15:26:25,625 Element identified by [[ChromeDriver: chrome on MAC (2b4697682b23d314f9048b7bbd88b7f8)] -> id: email] was  visible 
+2024-04-23 15:26:25,927 Entered deepak to[[ChromeDriver: chrome on MAC (2b4697682b23d314f9048b7bbd88b7f8)] -> id: first_name] 
+2024-04-23 15:26:26,115 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (2b4697682b23d314f9048b7bbd88b7f8)] -> id: email] 
+2024-04-23 15:26:40,718 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 15:26:50,773 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 15:26:50,937 Welcome message and image is shown 
+2024-04-23 15:26:51,101 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (2b4697682b23d314f9048b7bbd88b7f8)] -> id: queryTextbox] 
+2024-04-23 15:26:51,333 Clicked on  [[ChromeDriver: chrome on MAC (2b4697682b23d314f9048b7bbd88b7f8)] -> xpath: //button[text()='Send']] 
+2024-04-23 15:26:51,333 Sent chat I want to order a pizza 
+2024-04-23 15:26:51,374 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 15:26:51,409 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 15:26:52,310 Option selected:veg 
+2024-04-23 15:26:52,373 Received Chat messages is   verifiedveg 
+2024-04-23 15:27:05,977 Option selected:Cheese 
+2024-04-23 15:27:06,062 Received Chat messages is   verifiedGreat ! You have Selected cheese 
+2024-04-23 15:27:36,499 Option selected:Thick Crust 
+2024-04-23 15:43:20,894 Switched to default content  
+2024-04-23 15:44:34,593 ************************** Test Execution Started ************************************ 
+2024-04-23 15:44:47,093 Mac Pizaa Test: Test started 
+2024-04-23 15:44:47,438 Clicked on  [[ChromeDriver: chrome on MAC (d3bff9a12379ae21ce9383005aca3127)] -> class name: avaamo__icon] 
+2024-04-23 15:44:47,713 Element identified by [[ChromeDriver: chrome on MAC (d3bff9a12379ae21ce9383005aca3127)] -> id: avaamo__popup] was  visible 
+2024-04-23 15:44:57,945 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 15:44:57,959 Element identified by [[ChromeDriver: chrome on MAC (d3bff9a12379ae21ce9383005aca3127)] -> id: avaamo__popup] was  visible 
+2024-04-23 15:44:58,018 Switched to frame avaamoIframe 
+2024-04-23 15:44:58,214 Element identified by [[ChromeDriver: chrome on MAC (d3bff9a12379ae21ce9383005aca3127)] -> id: first_name] was  visible 
+2024-04-23 15:44:58,227 Element identified by [[ChromeDriver: chrome on MAC (d3bff9a12379ae21ce9383005aca3127)] -> id: email] was  visible 
+2024-04-23 15:44:58,597 Entered deepak to[[ChromeDriver: chrome on MAC (d3bff9a12379ae21ce9383005aca3127)] -> id: first_name] 
+2024-04-23 15:44:58,784 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (d3bff9a12379ae21ce9383005aca3127)] -> id: email] 
+2024-04-23 15:45:11,800 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 15:45:21,822 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 15:45:21,977 Welcome message and image is shown 
+2024-04-23 15:45:22,125 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (d3bff9a12379ae21ce9383005aca3127)] -> id: queryTextbox] 
+2024-04-23 15:45:22,333 Clicked on  [[ChromeDriver: chrome on MAC (d3bff9a12379ae21ce9383005aca3127)] -> xpath: //button[text()='Send']] 
+2024-04-23 15:45:22,333 Sent chat I want to order a pizza 
+2024-04-23 15:45:22,379 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 15:45:22,429 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 15:45:23,216 Option selected:veg 
+2024-04-23 15:45:23,277 Received Chat messages is   verifiedveg 
+2024-04-23 15:45:24,198 Option selected:Cheese 
+2024-04-23 15:45:24,269 Received Chat messages is   verifiedGreat ! You have Selected cheese 
+2024-04-23 15:45:35,383 Option selected:Thick Crust 
+2024-04-23 15:49:24,275 Pizza size title and description not shown correctly 
+2024-04-23 15:51:03,443 ************************** Test Execution Started ************************************ 
+2024-04-23 15:51:14,348 Mac Pizaa Test: Test started 
+2024-04-23 15:51:14,587 Clicked on  [[ChromeDriver: chrome on MAC (7c498a1c7d6042a5601a42e181adc23f)] -> class name: avaamo__icon] 
+2024-04-23 15:51:14,778 Element identified by [[ChromeDriver: chrome on MAC (7c498a1c7d6042a5601a42e181adc23f)] -> id: avaamo__popup] was  visible 
+2024-04-23 15:51:25,045 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 15:51:25,066 Element identified by [[ChromeDriver: chrome on MAC (7c498a1c7d6042a5601a42e181adc23f)] -> id: avaamo__popup] was  visible 
+2024-04-23 15:51:25,141 Switched to frame avaamoIframe 
+2024-04-23 15:51:25,383 Element identified by [[ChromeDriver: chrome on MAC (7c498a1c7d6042a5601a42e181adc23f)] -> id: first_name] was  visible 
+2024-04-23 15:51:25,405 Element identified by [[ChromeDriver: chrome on MAC (7c498a1c7d6042a5601a42e181adc23f)] -> id: email] was  visible 
+2024-04-23 15:51:26,012 Entered deepak to[[ChromeDriver: chrome on MAC (7c498a1c7d6042a5601a42e181adc23f)] -> id: first_name] 
+2024-04-23 15:51:26,362 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (7c498a1c7d6042a5601a42e181adc23f)] -> id: email] 
+2024-04-23 15:51:41,667 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 15:51:51,690 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 15:51:51,836 Welcome message and image is shown 
+2024-04-23 15:51:51,987 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (7c498a1c7d6042a5601a42e181adc23f)] -> id: queryTextbox] 
+2024-04-23 15:51:52,223 Clicked on  [[ChromeDriver: chrome on MAC (7c498a1c7d6042a5601a42e181adc23f)] -> xpath: //button[text()='Send']] 
+2024-04-23 15:51:52,223 Sent chat I want to order a pizza 
+2024-04-23 15:51:52,261 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 15:58:47,386 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 15:58:48,247 Option selected:veg 
+2024-04-23 15:58:48,333 Received chat messages is not  verifiedveg 
+2024-04-23 15:58:52,287 Option selected:Cheese 
+2024-04-23 15:58:52,393 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 15:58:57,162 Option selected:Thick Crust 
+2024-04-23 15:59:28,416 Pizza size title and description not shown correctly 
+2024-04-23 16:02:43,782 ************************** Test Execution Started ************************************ 
+2024-04-23 16:02:58,791 Mac Pizaa Test: Test started 
+2024-04-23 16:02:59,093 Clicked on  [[ChromeDriver: chrome on MAC (3d28793500c299a4821319714940c492)] -> class name: avaamo__icon] 
+2024-04-23 16:02:59,293 Element identified by [[ChromeDriver: chrome on MAC (3d28793500c299a4821319714940c492)] -> id: avaamo__popup] was  visible 
+2024-04-23 16:03:09,537 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 16:03:09,551 Element identified by [[ChromeDriver: chrome on MAC (3d28793500c299a4821319714940c492)] -> id: avaamo__popup] was  visible 
+2024-04-23 16:03:09,609 Switched to frame avaamoIframe 
+2024-04-23 16:03:09,793 Element identified by [[ChromeDriver: chrome on MAC (3d28793500c299a4821319714940c492)] -> id: first_name] was  visible 
+2024-04-23 16:03:09,807 Element identified by [[ChromeDriver: chrome on MAC (3d28793500c299a4821319714940c492)] -> id: email] was  visible 
+2024-04-23 16:03:10,153 Entered deepak to[[ChromeDriver: chrome on MAC (3d28793500c299a4821319714940c492)] -> id: first_name] 
+2024-04-23 16:03:10,317 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (3d28793500c299a4821319714940c492)] -> id: email] 
+2024-04-23 16:03:23,524 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 16:03:33,536 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 16:03:33,685 Welcome message and image is shown 
+2024-04-23 16:03:33,836 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (3d28793500c299a4821319714940c492)] -> id: queryTextbox] 
+2024-04-23 16:03:34,069 Clicked on  [[ChromeDriver: chrome on MAC (3d28793500c299a4821319714940c492)] -> xpath: //button[text()='Send']] 
+2024-04-23 16:03:34,070 Sent chat I want to order a pizza 
+2024-04-23 16:03:44,875 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 16:03:55,017 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 16:03:55,159 Option selected:veg 
+2024-04-23 16:03:55,341 Received chat messages is not  verifiedveg 
+2024-04-23 16:03:56,258 Option selected:Cheese 
+2024-04-23 16:03:56,341 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 16:03:58,129 Option selected:Thick Crust 
+2024-04-23 16:05:59,798 Pizza size title and description not shown correctly 
+2024-04-23 16:07:58,317 Size  selected:Medium 
+2024-04-23 16:07:58,336 Switched to default content  
+2024-04-23 16:08:00,213 Mac Pizaa Test : Test Passed 
+2024-04-23 16:08:01,361 Total number of testcases : 1 
+2024-04-23 16:08:01,361 Number of testcases Passed : 1 
+2024-04-23 16:08:01,362 Number of testcases Failed : 0 
+2024-04-23 16:08:01,362 Number of testcases Skipped  : 0 
+2024-04-23 16:08:01,362 ************************** Test Execution Finished ************************************ 
+2024-04-23 16:09:48,466 ************************** Test Execution Started ************************************ 
+2024-04-23 16:10:01,543 Mac Pizaa Test: Test started 
+2024-04-23 16:10:01,959 Clicked on  [[ChromeDriver: chrome on MAC (2ac6e737f9506976e4800a8c9b4331e6)] -> class name: avaamo__icon] 
+2024-04-23 16:10:02,150 Element identified by [[ChromeDriver: chrome on MAC (2ac6e737f9506976e4800a8c9b4331e6)] -> id: avaamo__popup] was  visible 
+2024-04-23 16:10:12,425 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 16:10:12,441 Element identified by [[ChromeDriver: chrome on MAC (2ac6e737f9506976e4800a8c9b4331e6)] -> id: avaamo__popup] was  visible 
+2024-04-23 16:10:12,508 Switched to frame avaamoIframe 
+2024-04-23 16:10:12,682 Element identified by [[ChromeDriver: chrome on MAC (2ac6e737f9506976e4800a8c9b4331e6)] -> id: first_name] was  visible 
+2024-04-23 16:10:12,696 Element identified by [[ChromeDriver: chrome on MAC (2ac6e737f9506976e4800a8c9b4331e6)] -> id: email] was  visible 
+2024-04-23 16:10:13,157 Entered deepak to[[ChromeDriver: chrome on MAC (2ac6e737f9506976e4800a8c9b4331e6)] -> id: first_name] 
+2024-04-23 16:10:13,353 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (2ac6e737f9506976e4800a8c9b4331e6)] -> id: email] 
+2024-04-23 16:10:28,267 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 16:10:38,301 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 16:10:38,470 Welcome message and image is shown 
+2024-04-23 16:10:38,647 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (2ac6e737f9506976e4800a8c9b4331e6)] -> id: queryTextbox] 
+2024-04-23 16:10:38,898 Clicked on  [[ChromeDriver: chrome on MAC (2ac6e737f9506976e4800a8c9b4331e6)] -> xpath: //button[text()='Send']] 
+2024-04-23 16:10:38,899 Sent chat I want to order a pizza 
+2024-04-23 16:10:49,521 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 16:10:59,692 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 16:10:59,873 Option selected:veg 
+2024-04-23 16:10:59,941 Sent chat messages is not  verifiedveg 
+2024-04-23 16:11:00,864 Option selected:Cheese 
+2024-04-23 16:11:00,921 Sent chat messages  is   verifiedGreat ! You have Selected cheese 
+2024-04-23 16:11:06,560 Option selected:Thick Crust 
+2024-04-23 16:13:14,951 Pizza size title and description not shown correctly 
+2024-04-23 16:39:27,811 ************************** Test Execution Started ************************************ 
+2024-04-23 16:39:39,900 Mac Pizaa Test: Test started 
+2024-04-23 16:39:40,171 Clicked on  [[ChromeDriver: chrome on MAC (a4c888e326ea51a000c61242a3c16818)] -> class name: avaamo__icon] 
+2024-04-23 16:39:40,379 Element identified by [[ChromeDriver: chrome on MAC (a4c888e326ea51a000c61242a3c16818)] -> id: avaamo__popup] was  visible 
+2024-04-23 16:39:50,587 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 16:39:50,601 Element identified by [[ChromeDriver: chrome on MAC (a4c888e326ea51a000c61242a3c16818)] -> id: avaamo__popup] was  visible 
+2024-04-23 16:39:50,659 Switched to frame avaamoIframe 
+2024-04-23 16:39:50,835 Element identified by [[ChromeDriver: chrome on MAC (a4c888e326ea51a000c61242a3c16818)] -> id: first_name] was  visible 
+2024-04-23 16:39:50,847 Element identified by [[ChromeDriver: chrome on MAC (a4c888e326ea51a000c61242a3c16818)] -> id: email] was  visible 
+2024-04-23 16:39:51,146 Entered deepak to[[ChromeDriver: chrome on MAC (a4c888e326ea51a000c61242a3c16818)] -> id: first_name] 
+2024-04-23 16:39:51,349 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (a4c888e326ea51a000c61242a3c16818)] -> id: email] 
+2024-04-23 16:40:04,261 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 16:40:14,285 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 16:40:14,458 Welcome message and image is shown 
+2024-04-23 16:40:14,641 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (a4c888e326ea51a000c61242a3c16818)] -> id: queryTextbox] 
+2024-04-23 16:40:14,906 Clicked on  [[ChromeDriver: chrome on MAC (a4c888e326ea51a000c61242a3c16818)] -> xpath: //button[text()='Send']] 
+2024-04-23 16:40:14,906 Sent chat I want to order a pizza 
+2024-04-23 16:40:14,957 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 16:40:14,997 Received chat messages is not  verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 16:40:16,069 Option selected:veg 
+2024-04-23 16:40:16,163 Sent chat messages is not  verifiedveg 
+2024-04-23 16:40:17,145 Option selected:Cheese 
+2024-04-23 16:40:17,218 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 16:40:19,096 Option selected:Thick Crust 
+2024-04-23 16:41:53,822 Pizza size title and description not shown correctly 
+2024-04-23 16:49:47,566 ************************** Test Execution Started ************************************ 
+2024-04-23 16:50:12,533 ************************** Test Execution Started ************************************ 
+2024-04-23 16:50:24,078 Mac Pizaa Test: Test started 
+2024-04-23 16:50:24,375 Clicked on  [[ChromeDriver: chrome on MAC (574585842ff279add7eec61b8a82ffd2)] -> class name: avaamo__icon] 
+2024-04-23 16:50:24,574 Element identified by [[ChromeDriver: chrome on MAC (574585842ff279add7eec61b8a82ffd2)] -> id: avaamo__popup] was  visible 
+2024-04-23 16:50:34,816 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 16:50:34,830 Element identified by [[ChromeDriver: chrome on MAC (574585842ff279add7eec61b8a82ffd2)] -> id: avaamo__popup] was  visible 
+2024-04-23 16:50:34,898 Switched to frame avaamoIframe 
+2024-04-23 16:50:35,075 Element identified by [[ChromeDriver: chrome on MAC (574585842ff279add7eec61b8a82ffd2)] -> id: first_name] was  visible 
+2024-04-23 16:50:35,090 Element identified by [[ChromeDriver: chrome on MAC (574585842ff279add7eec61b8a82ffd2)] -> id: email] was  visible 
+2024-04-23 16:50:35,535 Entered deepak to[[ChromeDriver: chrome on MAC (574585842ff279add7eec61b8a82ffd2)] -> id: first_name] 
+2024-04-23 16:50:35,696 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (574585842ff279add7eec61b8a82ffd2)] -> id: email] 
+2024-04-23 16:50:52,479 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 16:51:02,496 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 16:51:02,647 Welcome message and image is shown 
+2024-04-23 16:51:02,827 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (574585842ff279add7eec61b8a82ffd2)] -> id: queryTextbox] 
+2024-04-23 16:51:03,051 Clicked on  [[ChromeDriver: chrome on MAC (574585842ff279add7eec61b8a82ffd2)] -> xpath: //button[text()='Send']] 
+2024-04-23 16:51:03,052 Sent chat I want to order a pizza 
+2024-04-23 16:51:03,088 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 16:51:33,415 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 16:51:33,612 Option selected:veg 
+2024-04-23 16:51:43,785 Sent chat messages is not  verifiedveg 
+2024-04-23 16:51:44,074 Option selected:Cheese 
+2024-04-23 16:52:04,254 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 16:52:04,417 Option selected:Thick Crust 
+2024-04-23 16:52:24,792 Pizza size title and description not shown correctly 
+2024-04-23 17:06:59,160 Size  selected:Medium 
+2024-04-23 17:07:07,817 ************************** Test Execution Started ************************************ 
+2024-04-23 17:07:18,393 Mac Pizaa Test: Test started 
+2024-04-23 17:07:18,783 Clicked on  [[ChromeDriver: chrome on MAC (6704c8385e99fc655ddbdff40f9d1a49)] -> class name: avaamo__icon] 
+2024-04-23 17:07:19,073 Element identified by [[ChromeDriver: chrome on MAC (6704c8385e99fc655ddbdff40f9d1a49)] -> id: avaamo__popup] was  visible 
+2024-04-23 17:07:29,379 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 17:07:29,393 Element identified by [[ChromeDriver: chrome on MAC (6704c8385e99fc655ddbdff40f9d1a49)] -> id: avaamo__popup] was  visible 
+2024-04-23 17:07:29,452 Switched to frame avaamoIframe 
+2024-04-23 17:07:29,628 Element identified by [[ChromeDriver: chrome on MAC (6704c8385e99fc655ddbdff40f9d1a49)] -> id: first_name] was  visible 
+2024-04-23 17:07:29,642 Element identified by [[ChromeDriver: chrome on MAC (6704c8385e99fc655ddbdff40f9d1a49)] -> id: email] was  visible 
+2024-04-23 17:07:29,948 Entered deepak to[[ChromeDriver: chrome on MAC (6704c8385e99fc655ddbdff40f9d1a49)] -> id: first_name] 
+2024-04-23 17:07:30,161 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (6704c8385e99fc655ddbdff40f9d1a49)] -> id: email] 
+2024-04-23 17:07:42,391 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 17:07:52,409 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 17:07:52,548 Welcome message and image is shown 
+2024-04-23 17:07:52,688 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (6704c8385e99fc655ddbdff40f9d1a49)] -> id: queryTextbox] 
+2024-04-23 17:07:52,885 Clicked on  [[ChromeDriver: chrome on MAC (6704c8385e99fc655ddbdff40f9d1a49)] -> xpath: //button[text()='Send']] 
+2024-04-23 17:07:52,885 Sent chat I want to order a pizza 
+2024-04-23 17:08:03,633 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 17:08:23,909 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 17:08:24,133 Option selected:veg 
+2024-04-23 17:08:24,192 Sent chat messages is not  verifiedveg 
+2024-04-23 17:08:25,309 Option selected:Cheese 
+2024-04-23 17:08:25,407 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 17:08:27,153 Option selected:Thick Crust 
+2024-04-23 17:08:47,503 Pizza size title and description not shown correctly 
+2024-04-23 17:09:18,091 Size  selected:Medium 
+2024-04-23 17:09:18,206 Received chat messages is not  verifiedWould you like to confirm the order? 
+2024-04-23 17:36:21,896 ************************** Test Execution Started ************************************ 
+2024-04-23 17:36:35,443 Mac Pizaa Test: Test started 
+2024-04-23 17:36:35,772 Clicked on  [[ChromeDriver: chrome on MAC (cbb52c632c25d79ec5f41dce691f2359)] -> class name: avaamo__icon] 
+2024-04-23 17:36:35,980 Element identified by [[ChromeDriver: chrome on MAC (cbb52c632c25d79ec5f41dce691f2359)] -> id: avaamo__popup] was  visible 
+2024-04-23 17:36:46,428 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 17:36:46,447 Element identified by [[ChromeDriver: chrome on MAC (cbb52c632c25d79ec5f41dce691f2359)] -> id: avaamo__popup] was  visible 
+2024-04-23 17:36:46,534 Switched to frame avaamoIframe 
+2024-04-23 17:36:46,943 Element identified by [[ChromeDriver: chrome on MAC (cbb52c632c25d79ec5f41dce691f2359)] -> id: first_name] was  visible 
+2024-04-23 17:36:46,960 Element identified by [[ChromeDriver: chrome on MAC (cbb52c632c25d79ec5f41dce691f2359)] -> id: email] was  visible 
+2024-04-23 17:36:47,706 Entered deepak to[[ChromeDriver: chrome on MAC (cbb52c632c25d79ec5f41dce691f2359)] -> id: first_name] 
+2024-04-23 17:36:48,067 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (cbb52c632c25d79ec5f41dce691f2359)] -> id: email] 
+2024-04-23 17:37:01,559 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 17:37:11,600 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 17:37:11,761 Welcome message and image is shown 
+2024-04-23 17:37:11,948 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (cbb52c632c25d79ec5f41dce691f2359)] -> id: queryTextbox] 
+2024-04-23 17:37:12,162 Clicked on  [[ChromeDriver: chrome on MAC (cbb52c632c25d79ec5f41dce691f2359)] -> xpath: //button[text()='Send']] 
+2024-04-23 17:37:12,162 Sent chat I want to order a pizza 
+2024-04-23 17:37:12,198 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 17:37:12,234 Received chat messages is not  verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 17:37:13,078 Option selected:veg 
+2024-04-23 17:37:13,151 Sent chat messages is not  verifiedveg 
+2024-04-23 17:37:14,246 Option selected:Cheese 
+2024-04-23 17:37:14,352 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 17:37:16,011 Option selected:Thick Crust 
+2024-04-23 17:37:26,491 Pizza size title and description not shown correctly 
+2024-04-23 17:37:36,947 Size  selected:Medium 
+2024-04-23 17:37:37,048 Received chat messages is not  verifiedWould you like to confirm the order? 
+2024-04-23 17:37:47,740 Quick replyYes  selected: 
+2024-04-23 17:37:47,865 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 17:38:28,840 Rating items not foundGood 
+2024-04-23 17:39:25,749 Switched to default content  
+2024-04-23 17:39:34,148 ************************** Test Execution Started ************************************ 
+2024-04-23 17:39:45,051 Mac Pizaa Test: Test started 
+2024-04-23 17:39:45,515 Clicked on  [[ChromeDriver: chrome on MAC (a1855cbd8cd84bce0da5f011ff4c57d1)] -> class name: avaamo__icon] 
+2024-04-23 17:39:45,737 Element identified by [[ChromeDriver: chrome on MAC (a1855cbd8cd84bce0da5f011ff4c57d1)] -> id: avaamo__popup] was  visible 
+2024-04-23 17:39:55,977 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 17:39:55,991 Element identified by [[ChromeDriver: chrome on MAC (a1855cbd8cd84bce0da5f011ff4c57d1)] -> id: avaamo__popup] was  visible 
+2024-04-23 17:39:56,054 Switched to frame avaamoIframe 
+2024-04-23 17:39:56,224 Element identified by [[ChromeDriver: chrome on MAC (a1855cbd8cd84bce0da5f011ff4c57d1)] -> id: first_name] was  visible 
+2024-04-23 17:39:56,237 Element identified by [[ChromeDriver: chrome on MAC (a1855cbd8cd84bce0da5f011ff4c57d1)] -> id: email] was  visible 
+2024-04-23 17:39:56,658 Entered deepak to[[ChromeDriver: chrome on MAC (a1855cbd8cd84bce0da5f011ff4c57d1)] -> id: first_name] 
+2024-04-23 17:39:56,834 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (a1855cbd8cd84bce0da5f011ff4c57d1)] -> id: email] 
+2024-04-23 17:40:10,331 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 17:40:20,368 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 17:40:20,631 Welcome message and image is shown 
+2024-04-23 17:40:21,016 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (a1855cbd8cd84bce0da5f011ff4c57d1)] -> id: queryTextbox] 
+2024-04-23 17:40:21,416 Clicked on  [[ChromeDriver: chrome on MAC (a1855cbd8cd84bce0da5f011ff4c57d1)] -> xpath: //button[text()='Send']] 
+2024-04-23 17:40:21,416 Sent chat I want to order a pizza 
+2024-04-23 17:40:21,468 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 17:40:21,513 Received chat messages is not  verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 17:40:22,262 Option selected:veg 
+2024-04-23 17:40:22,377 Sent chat messages is not  verifiedveg 
+2024-04-23 17:40:23,869 Option selected:Cheese 
+2024-04-23 17:40:23,965 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 17:40:25,984 Option selected:Thick Crust 
+2024-04-23 17:40:36,362 Pizza size title and description not shown correctly 
+2024-04-23 17:40:36,703 Size  selected:Medium 
+2024-04-23 17:40:36,796 Received chat messages is not  verifiedWould you like to confirm the order? 
+2024-04-23 17:40:47,571 Quick replyYes  selected: 
+2024-04-23 17:40:47,671 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 17:41:19,240 Rating items not foundGood 
+2024-04-23 17:42:26,406 Switched to default content  
+2024-04-23 17:44:38,368 ************************** Test Execution Started ************************************ 
+2024-04-23 17:44:53,032 Mac Pizaa Test: Test started 
+2024-04-23 17:44:53,452 Clicked on  [[ChromeDriver: chrome on MAC (fd560a29eb2a3ad8a34fd079bfeb085d)] -> class name: avaamo__icon] 
+2024-04-23 17:44:53,651 Element identified by [[ChromeDriver: chrome on MAC (fd560a29eb2a3ad8a34fd079bfeb085d)] -> id: avaamo__popup] was  visible 
+2024-04-23 17:45:03,843 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 17:45:03,857 Element identified by [[ChromeDriver: chrome on MAC (fd560a29eb2a3ad8a34fd079bfeb085d)] -> id: avaamo__popup] was  visible 
+2024-04-23 17:45:03,927 Switched to frame avaamoIframe 
+2024-04-23 17:45:04,085 Element identified by [[ChromeDriver: chrome on MAC (fd560a29eb2a3ad8a34fd079bfeb085d)] -> id: first_name] was  visible 
+2024-04-23 17:45:04,098 Element identified by [[ChromeDriver: chrome on MAC (fd560a29eb2a3ad8a34fd079bfeb085d)] -> id: email] was  visible 
+2024-04-23 17:45:04,477 Entered deepak to[[ChromeDriver: chrome on MAC (fd560a29eb2a3ad8a34fd079bfeb085d)] -> id: first_name] 
+2024-04-23 17:45:04,660 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (fd560a29eb2a3ad8a34fd079bfeb085d)] -> id: email] 
+2024-04-23 17:45:17,059 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 17:45:27,079 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 17:45:27,221 Welcome message and image is shown 
+2024-04-23 17:45:27,390 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (fd560a29eb2a3ad8a34fd079bfeb085d)] -> id: queryTextbox] 
+2024-04-23 17:45:27,606 Clicked on  [[ChromeDriver: chrome on MAC (fd560a29eb2a3ad8a34fd079bfeb085d)] -> xpath: //button[text()='Send']] 
+2024-04-23 17:45:27,606 Sent chat I want to order a pizza 
+2024-04-23 17:45:27,644 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 17:45:27,704 Received chat messages is not  verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 17:45:28,430 Option selected:veg 
+2024-04-23 17:45:28,515 Sent chat messages is not  verifiedveg 
+2024-04-23 17:45:29,896 Option selected:Cheese 
+2024-04-23 17:45:29,971 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 17:45:31,807 Option selected:Thick Crust 
+2024-04-23 17:45:32,639 Pizza size title and description not shown correctly 
+2024-04-23 17:45:33,013 Size  selected:Medium 
+2024-04-23 17:45:33,111 Received chat messages is not  verifiedWould you like to confirm the order? 
+2024-04-23 17:45:34,178 Quick replyYes  selected: 
+2024-04-23 17:45:34,370 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 17:45:36,164 Rating items foundGood 
+2024-04-23 17:45:36,189 Mac Pizaa Test : Test Failed : stale element reference: stale element not found in the current frame
+  (Session info: chrome=124.0.6367.62)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'FCIs-MacBook-Pro.local', ip: '2405:201:a41e:2913:6452:e4b8:e3a0:4983%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.62, chrome: {chromedriverVersion: 124.0.6367.60 (8771130bd84f..., userDataDir: /var/folders/_v/6d_fgf454v5...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62794}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fd560a29eb2a3ad8a34fd079bfeb085d 
+2024-04-23 17:45:37,920 Total number of testcases : 1 
+2024-04-23 17:45:37,920 Number of testcases Passed : 0 
+2024-04-23 17:45:37,920 Number of testcases Failed : 1 
+2024-04-23 17:45:37,920 Number of testcases Skipped  : 0 
+2024-04-23 17:45:37,920 ************************** Test Execution Finished ************************************ 
+2024-04-23 18:24:15,326 ************************** Test Execution Started ************************************ 
+2024-04-23 18:24:32,243 Mac Pizaa Test: Test started 
+2024-04-23 18:24:33,075 Clicked on  [[ChromeDriver: chrome on MAC (bec1eafe10d8a769de41b7802c1f7e7e)] -> class name: avaamo__icon] 
+2024-04-23 18:24:33,318 Element identified by [[ChromeDriver: chrome on MAC (bec1eafe10d8a769de41b7802c1f7e7e)] -> id: avaamo__popup] was  visible 
+2024-04-23 18:24:43,610 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 18:24:43,625 Element identified by [[ChromeDriver: chrome on MAC (bec1eafe10d8a769de41b7802c1f7e7e)] -> id: avaamo__popup] was  visible 
+2024-04-23 18:24:43,687 Switched to frame avaamoIframe 
+2024-04-23 18:24:43,894 Element identified by [[ChromeDriver: chrome on MAC (bec1eafe10d8a769de41b7802c1f7e7e)] -> id: first_name] was  visible 
+2024-04-23 18:24:43,909 Element identified by [[ChromeDriver: chrome on MAC (bec1eafe10d8a769de41b7802c1f7e7e)] -> id: email] was  visible 
+2024-04-23 18:24:44,279 Entered deepak to[[ChromeDriver: chrome on MAC (bec1eafe10d8a769de41b7802c1f7e7e)] -> id: first_name] 
+2024-04-23 18:24:44,448 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (bec1eafe10d8a769de41b7802c1f7e7e)] -> id: email] 
+2024-04-23 18:24:59,712 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 18:25:09,780 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 18:25:09,932 Welcome message and image is shown 
+2024-04-23 18:25:10,101 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (bec1eafe10d8a769de41b7802c1f7e7e)] -> id: queryTextbox] 
+2024-04-23 18:25:10,379 Clicked on  [[ChromeDriver: chrome on MAC (bec1eafe10d8a769de41b7802c1f7e7e)] -> xpath: //button[text()='Send']] 
+2024-04-23 18:25:10,379 Sent chat I want to order a pizza 
+2024-04-23 18:25:10,417 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 18:25:10,462 Received chat messages is not  verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 18:25:11,261 Option selected:veg 
+2024-04-23 18:25:11,327 Sent chat messages is not  verifiedveg 
+2024-04-23 18:25:13,490 Option selected:Cheese 
+2024-04-23 18:25:13,539 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 18:25:15,628 Option selected:Thick Crust 
+2024-04-23 18:25:18,344 Pizza size title and description not shown correctly 
+2024-04-23 18:25:18,928 Size  selected:Medium 
+2024-04-23 18:25:19,316 Received chat messages is not  verifiedWould you like to confirm the order? 
+2024-04-23 18:25:19,672 Quick replyYes  selected: 
+2024-04-23 18:25:19,873 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 18:25:22,002 Rating items foundGood 
+2024-04-23 18:25:23,550 Mac Pizaa Test : Test Failed : stale element reference: stale element not found in the current frame
+  (Session info: chrome=124.0.6367.62)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'FCIs-MacBook-Pro.local', ip: '2405:201:a41e:2913:5173:cebd:605c:d075%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.62, chrome: {chromedriverVersion: 124.0.6367.60 (8771130bd84f..., userDataDir: /var/folders/_v/6d_fgf454v5...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57269}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bec1eafe10d8a769de41b7802c1f7e7e 
+2024-04-23 18:25:24,632 Total number of testcases : 1 
+2024-04-23 18:25:24,632 Number of testcases Passed : 0 
+2024-04-23 18:25:24,633 Number of testcases Failed : 1 
+2024-04-23 18:25:24,633 Number of testcases Skipped  : 0 
+2024-04-23 18:25:24,633 ************************** Test Execution Finished ************************************ 
+2024-04-23 18:26:10,624 ************************** Test Execution Started ************************************ 
+2024-04-23 18:26:24,413 Mac Pizaa Test: Test started 
+2024-04-23 18:26:24,670 Clicked on  [[ChromeDriver: chrome on MAC (7df8724c4e8c5c5cdb980cf88e3bb718)] -> class name: avaamo__icon] 
+2024-04-23 18:26:24,863 Element identified by [[ChromeDriver: chrome on MAC (7df8724c4e8c5c5cdb980cf88e3bb718)] -> id: avaamo__popup] was  visible 
+2024-04-23 18:26:35,057 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 18:26:35,071 Element identified by [[ChromeDriver: chrome on MAC (7df8724c4e8c5c5cdb980cf88e3bb718)] -> id: avaamo__popup] was  visible 
+2024-04-23 18:26:35,131 Switched to frame avaamoIframe 
+2024-04-23 18:26:35,309 Element identified by [[ChromeDriver: chrome on MAC (7df8724c4e8c5c5cdb980cf88e3bb718)] -> id: first_name] was  visible 
+2024-04-23 18:26:35,323 Element identified by [[ChromeDriver: chrome on MAC (7df8724c4e8c5c5cdb980cf88e3bb718)] -> id: email] was  visible 
+2024-04-23 18:26:35,745 Entered deepak to[[ChromeDriver: chrome on MAC (7df8724c4e8c5c5cdb980cf88e3bb718)] -> id: first_name] 
+2024-04-23 18:26:35,919 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (7df8724c4e8c5c5cdb980cf88e3bb718)] -> id: email] 
+2024-04-23 18:26:49,834 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 18:26:59,896 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 18:27:00,057 Welcome message and image is shown 
+2024-04-23 18:27:00,213 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (7df8724c4e8c5c5cdb980cf88e3bb718)] -> id: queryTextbox] 
+2024-04-23 18:27:00,434 Clicked on  [[ChromeDriver: chrome on MAC (7df8724c4e8c5c5cdb980cf88e3bb718)] -> xpath: //button[text()='Send']] 
+2024-04-23 18:27:00,435 Sent chat I want to order a pizza 
+2024-04-23 18:27:00,476 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 18:27:00,515 Received chat messages is not  verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 18:27:01,315 Option selected:veg 
+2024-04-23 18:27:01,411 Sent chat messages is not  verifiedveg 
+2024-04-23 18:27:02,472 Option selected:Cheese 
+2024-04-23 18:27:02,554 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 18:27:04,179 Option selected:Thick Crust 
+2024-04-23 18:27:14,717 Pizza size title and description not shown correctly 
+2024-04-23 18:27:15,401 Size  selected:Medium 
+2024-04-23 18:27:15,549 Received chat messages is not  verifiedWould you like to confirm the order? 
+2024-04-23 18:27:26,335 Quick replyYes  selected: 
+2024-04-23 18:27:26,546 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 18:38:48,020 ************************** Test Execution Started ************************************ 
+2024-04-23 18:39:01,200 Mac Pizaa Test: Test started 
+2024-04-23 18:39:01,454 Clicked on  [[ChromeDriver: chrome on MAC (262558a9457832dd7b5a547bbbbe5e00)] -> class name: avaamo__icon] 
+2024-04-23 18:39:01,647 Element identified by [[ChromeDriver: chrome on MAC (262558a9457832dd7b5a547bbbbe5e00)] -> id: avaamo__popup] was  visible 
+2024-04-23 18:39:11,854 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 18:39:11,889 Element identified by [[ChromeDriver: chrome on MAC (262558a9457832dd7b5a547bbbbe5e00)] -> id: avaamo__popup] was  visible 
+2024-04-23 18:39:11,957 Switched to frame avaamoIframe 
+2024-04-23 18:39:12,145 Element identified by [[ChromeDriver: chrome on MAC (262558a9457832dd7b5a547bbbbe5e00)] -> id: first_name] was  visible 
+2024-04-23 18:39:12,158 Element identified by [[ChromeDriver: chrome on MAC (262558a9457832dd7b5a547bbbbe5e00)] -> id: email] was  visible 
+2024-04-23 18:39:12,462 Entered deepak to[[ChromeDriver: chrome on MAC (262558a9457832dd7b5a547bbbbe5e00)] -> id: first_name] 
+2024-04-23 18:39:12,661 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (262558a9457832dd7b5a547bbbbe5e00)] -> id: email] 
+2024-04-23 18:39:26,073 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 18:39:36,121 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 18:39:36,270 Welcome message and image is shown 
+2024-04-23 18:39:36,424 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (262558a9457832dd7b5a547bbbbe5e00)] -> id: queryTextbox] 
+2024-04-23 18:39:36,653 Clicked on  [[ChromeDriver: chrome on MAC (262558a9457832dd7b5a547bbbbe5e00)] -> xpath: //button[text()='Send']] 
+2024-04-23 18:39:36,655 Sent chat I want to order a pizza 
+2024-04-23 18:39:36,793 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 18:39:36,899 Received chat messages is not  verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 18:39:37,786 Option selected:veg 
+2024-04-23 18:39:37,980 Sent chat messages is not  verifiedveg 
+2024-04-23 18:39:39,718 Option selected:Cheese 
+2024-04-23 18:39:39,864 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 18:39:41,742 Option selected:Thick Crust 
+2024-04-23 18:39:42,567 Pizza size title and description not shown correctly 
+2024-04-23 18:39:42,934 Size  selected:Medium 
+2024-04-23 18:39:43,110 Received chat messages is not  verifiedWould you like to confirm the order? 
+2024-04-23 18:42:26,508 Quick replyYes  selected: 
+2024-04-23 18:42:26,868 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 18:44:03,687 ************************** Test Execution Started ************************************ 
+2024-04-23 18:44:16,373 Mac Pizaa Test: Test started 
+2024-04-23 18:44:17,062 Clicked on  [[ChromeDriver: chrome on MAC (5e17482a5d6a84a14103441a246a8760)] -> class name: avaamo__icon] 
+2024-04-23 18:44:17,835 Element identified by [[ChromeDriver: chrome on MAC (5e17482a5d6a84a14103441a246a8760)] -> id: avaamo__popup] was  visible 
+2024-04-23 18:44:28,354 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 18:44:28,373 Element identified by [[ChromeDriver: chrome on MAC (5e17482a5d6a84a14103441a246a8760)] -> id: avaamo__popup] was  visible 
+2024-04-23 18:44:28,452 Switched to frame avaamoIframe 
+2024-04-23 18:44:28,722 Element identified by [[ChromeDriver: chrome on MAC (5e17482a5d6a84a14103441a246a8760)] -> id: first_name] was  visible 
+2024-04-23 18:44:28,739 Element identified by [[ChromeDriver: chrome on MAC (5e17482a5d6a84a14103441a246a8760)] -> id: email] was  visible 
+2024-04-23 18:44:29,184 Entered deepak to[[ChromeDriver: chrome on MAC (5e17482a5d6a84a14103441a246a8760)] -> id: first_name] 
+2024-04-23 18:44:29,489 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (5e17482a5d6a84a14103441a246a8760)] -> id: email] 
+2024-04-23 18:44:42,930 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 18:44:52,939 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 18:44:53,092 Welcome message and image is shown 
+2024-04-23 18:44:53,257 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (5e17482a5d6a84a14103441a246a8760)] -> id: queryTextbox] 
+2024-04-23 18:44:53,487 Clicked on  [[ChromeDriver: chrome on MAC (5e17482a5d6a84a14103441a246a8760)] -> xpath: //button[text()='Send']] 
+2024-04-23 18:44:53,487 Sent chat I want to order a pizza 
+2024-04-23 18:45:04,257 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 18:45:24,744 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 18:45:24,969 Option selected:veg 
+2024-04-23 18:45:35,258 Sent chat messages is not  verifiedveg 
+2024-04-23 18:45:35,577 Option selected:Cheese 
+2024-04-23 18:45:45,791 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 18:45:45,955 Option selected:Thick Crust 
+2024-04-23 18:57:56,302 Pizza size title and description not shown correctly 
+2024-04-23 18:58:13,485 ************************** Test Execution Started ************************************ 
+2024-04-23 18:58:27,073 Mac Pizaa Test: Test started 
+2024-04-23 18:58:27,358 Clicked on  [[ChromeDriver: chrome on MAC (245cd579604489ab004ee64660671829)] -> class name: avaamo__icon] 
+2024-04-23 18:58:27,612 Element identified by [[ChromeDriver: chrome on MAC (245cd579604489ab004ee64660671829)] -> id: avaamo__popup] was  visible 
+2024-04-23 18:58:37,905 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 18:58:37,919 Element identified by [[ChromeDriver: chrome on MAC (245cd579604489ab004ee64660671829)] -> id: avaamo__popup] was  visible 
+2024-04-23 18:58:37,974 Switched to frame avaamoIframe 
+2024-04-23 18:58:38,146 Element identified by [[ChromeDriver: chrome on MAC (245cd579604489ab004ee64660671829)] -> id: first_name] was  visible 
+2024-04-23 18:58:38,160 Element identified by [[ChromeDriver: chrome on MAC (245cd579604489ab004ee64660671829)] -> id: email] was  visible 
+2024-04-23 18:58:38,485 Entered deepak to[[ChromeDriver: chrome on MAC (245cd579604489ab004ee64660671829)] -> id: first_name] 
+2024-04-23 18:58:38,664 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (245cd579604489ab004ee64660671829)] -> id: email] 
+2024-04-23 18:58:55,223 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 18:59:05,257 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 18:59:05,410 Welcome message and image is shown 
+2024-04-23 18:59:05,570 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (245cd579604489ab004ee64660671829)] -> id: queryTextbox] 
+2024-04-23 18:59:05,777 Clicked on  [[ChromeDriver: chrome on MAC (245cd579604489ab004ee64660671829)] -> xpath: //button[text()='Send']] 
+2024-04-23 18:59:05,777 Sent chat I want to order a pizza 
+2024-04-23 18:59:09,881 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 18:59:14,048 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 18:59:14,268 Option selected:veg 
+2024-04-23 18:59:18,395 Sent chat messages is not  verifiedveg 
+2024-04-23 18:59:18,791 Option selected:Cheese 
+2024-04-23 18:59:22,993 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 18:59:23,200 Option selected:Thick Crust 
+2024-04-23 18:59:24,151 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 18:59:24,718 Size  selected:Medium 
+2024-04-23 18:59:28,921 Received chat messages is not  verifiedWould you like to confirm the order? 
+2024-04-23 19:02:00,494 Quick replyYes  selected: 
+2024-04-23 19:02:04,730 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 19:03:20,744 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 19:03:25,117 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 19:03:29,391 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 19:05:43,330 ************************** Test Execution Started ************************************ 
+2024-04-23 19:05:54,547 Mac Pizaa Test: Test started 
+2024-04-23 19:05:54,856 Clicked on  [[ChromeDriver: chrome on MAC (b7252a5827b215717a58ab2fe9f1a647)] -> class name: avaamo__icon] 
+2024-04-23 19:05:55,057 Element identified by [[ChromeDriver: chrome on MAC (b7252a5827b215717a58ab2fe9f1a647)] -> id: avaamo__popup] was  visible 
+2024-04-23 19:06:05,268 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 19:06:05,281 Element identified by [[ChromeDriver: chrome on MAC (b7252a5827b215717a58ab2fe9f1a647)] -> id: avaamo__popup] was  visible 
+2024-04-23 19:06:05,344 Switched to frame avaamoIframe 
+2024-04-23 19:06:05,517 Element identified by [[ChromeDriver: chrome on MAC (b7252a5827b215717a58ab2fe9f1a647)] -> id: first_name] was  visible 
+2024-04-23 19:06:05,530 Element identified by [[ChromeDriver: chrome on MAC (b7252a5827b215717a58ab2fe9f1a647)] -> id: email] was  visible 
+2024-04-23 19:06:05,935 Entered deepak to[[ChromeDriver: chrome on MAC (b7252a5827b215717a58ab2fe9f1a647)] -> id: first_name] 
+2024-04-23 19:06:06,123 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (b7252a5827b215717a58ab2fe9f1a647)] -> id: email] 
+2024-04-23 19:06:24,844 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 19:06:34,868 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 19:06:35,010 Welcome message and image is shown 
+2024-04-23 19:06:35,179 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (b7252a5827b215717a58ab2fe9f1a647)] -> id: queryTextbox] 
+2024-04-23 19:06:35,408 Clicked on  [[ChromeDriver: chrome on MAC (b7252a5827b215717a58ab2fe9f1a647)] -> xpath: //button[text()='Send']] 
+2024-04-23 19:06:35,409 Sent chat I want to order a pizza 
+2024-04-23 19:06:59,997 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 19:09:05,946 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 19:09:06,160 Option selected:veg 
+2024-04-23 19:09:16,348 ************************** Test Execution Started ************************************ 
+2024-04-23 19:09:36,112 Mac Pizaa Test: Test started 
+2024-04-23 19:09:36,458 Clicked on  [[ChromeDriver: chrome on MAC (cb2f8e63b5efa869cd5073fee76aab2a)] -> class name: avaamo__icon] 
+2024-04-23 19:09:36,708 Element identified by [[ChromeDriver: chrome on MAC (cb2f8e63b5efa869cd5073fee76aab2a)] -> id: avaamo__popup] was  visible 
+2024-04-23 19:09:46,939 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 19:09:46,956 Element identified by [[ChromeDriver: chrome on MAC (cb2f8e63b5efa869cd5073fee76aab2a)] -> id: avaamo__popup] was  visible 
+2024-04-23 19:09:47,017 Switched to frame avaamoIframe 
+2024-04-23 19:09:47,198 Element identified by [[ChromeDriver: chrome on MAC (cb2f8e63b5efa869cd5073fee76aab2a)] -> id: first_name] was  visible 
+2024-04-23 19:09:47,214 Element identified by [[ChromeDriver: chrome on MAC (cb2f8e63b5efa869cd5073fee76aab2a)] -> id: email] was  visible 
+2024-04-23 19:09:47,772 Entered deepak to[[ChromeDriver: chrome on MAC (cb2f8e63b5efa869cd5073fee76aab2a)] -> id: first_name] 
+2024-04-23 19:09:47,976 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (cb2f8e63b5efa869cd5073fee76aab2a)] -> id: email] 
+2024-04-23 19:10:05,033 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 19:10:15,093 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 19:10:15,255 Welcome message and image is shown 
+2024-04-23 19:10:15,418 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (cb2f8e63b5efa869cd5073fee76aab2a)] -> id: queryTextbox] 
+2024-04-23 19:10:15,643 Clicked on  [[ChromeDriver: chrome on MAC (cb2f8e63b5efa869cd5073fee76aab2a)] -> xpath: //button[text()='Send']] 
+2024-04-23 19:10:15,644 Sent chat I want to order a pizza 
+2024-04-23 19:10:19,720 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 19:10:23,784 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 19:10:23,950 Option selected:veg 
+2024-04-23 19:10:28,001 Sent chat messages is not  verifiedveg 
+2024-04-23 19:10:28,305 Option selected:Cheese 
+2024-04-23 19:10:32,386 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 19:10:32,588 Option selected:Thick Crust 
+2024-04-23 19:10:33,453 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 19:10:33,882 Size  selected:Medium 
+2024-04-23 19:10:38,171 Received chat messages is not  verifiedWould you like to confirm the order? 
+2024-04-23 19:10:51,026 Quick replyYes  selected: 
+2024-04-23 19:10:55,336 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 21:35:31,733 ************************** Test Execution Started ************************************ 
+2024-04-23 21:35:50,952 Mac Pizaa Test: Test started 
+2024-04-23 21:35:52,459 Element identified by [[ChromeDriver: chrome on MAC (84742438661e84f39ef2d18c0b8d4ee4)] -> class name: avaamo__icon] was not visible 
+2024-04-23 21:35:59,661 Element identified by [[ChromeDriver: chrome on MAC (84742438661e84f39ef2d18c0b8d4ee4)] -> id: avaamo__popup] was not visible 
+2024-04-23 21:36:05,109 Element identified by [[ChromeDriver: chrome on MAC (84742438661e84f39ef2d18c0b8d4ee4)] -> id: avaamo__popup] was not visible 
+2024-04-23 21:36:25,211 Couldn't find frame avaamoIframeNo frame element found by name or id avaamoIframe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'FCIs-MacBook-Pro.local', ip: '2405:201:a41e:2913:5173:cebd:605c:d075%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '21.0.1'
+Driver info: driver.version: unknown 
+2024-04-23 21:36:55,368 Element identified by Proxy element for: DefaultElementLocator 'By.id: first_name' was not visible 
+2024-04-23 21:37:25,638 Log in unsuccessfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email'Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: first_name' (tried for 5 second(s) with 500 milliseconds interval) 
+2024-04-23 21:37:50,629 ************************** Test Execution Started ************************************ 
+2024-04-23 21:38:02,529 Mac Pizaa Test: Test started 
+2024-04-23 21:38:02,791 Clicked on  [[ChromeDriver: chrome on MAC (9c757a5bee03731dbee54d402d238733)] -> class name: avaamo__icon] 
+2024-04-23 21:38:02,979 Element identified by [[ChromeDriver: chrome on MAC (9c757a5bee03731dbee54d402d238733)] -> id: avaamo__popup] was  visible 
+2024-04-23 21:38:13,178 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 21:38:13,192 Element identified by [[ChromeDriver: chrome on MAC (9c757a5bee03731dbee54d402d238733)] -> id: avaamo__popup] was  visible 
+2024-04-23 21:38:13,251 Switched to frame avaamoIframe 
+2024-04-23 21:38:13,428 Element identified by [[ChromeDriver: chrome on MAC (9c757a5bee03731dbee54d402d238733)] -> id: first_name] was  visible 
+2024-04-23 21:38:13,442 Element identified by [[ChromeDriver: chrome on MAC (9c757a5bee03731dbee54d402d238733)] -> id: email] was  visible 
+2024-04-23 21:38:13,859 Entered deepak to[[ChromeDriver: chrome on MAC (9c757a5bee03731dbee54d402d238733)] -> id: first_name] 
+2024-04-23 21:38:14,055 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (9c757a5bee03731dbee54d402d238733)] -> id: email] 
+2024-04-23 21:38:28,830 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 21:38:38,866 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 21:38:39,022 Welcome message and image is shown 
+2024-04-23 21:38:39,214 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (9c757a5bee03731dbee54d402d238733)] -> id: queryTextbox] 
+2024-04-23 21:38:39,428 Clicked on  [[ChromeDriver: chrome on MAC (9c757a5bee03731dbee54d402d238733)] -> xpath: //button[text()='Send']] 
+2024-04-23 21:38:39,428 Sent chat I want to order a pizza 
+2024-04-23 21:38:43,470 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 21:38:57,601 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 21:38:57,744 Option selected:veg 
+2024-04-23 21:39:01,790 Sent chat messages is not  verifiedveg 
+2024-04-23 21:39:02,072 Option selected:Cheese 
+2024-04-23 21:40:37,253 ************************** Test Execution Started ************************************ 
+2024-04-23 21:40:49,091 Mac Pizaa Test: Test started 
+2024-04-23 21:40:49,326 Clicked on  [[ChromeDriver: chrome on MAC (0377f9745eadbcef1c1c5a8d1346f9cf)] -> class name: avaamo__icon] 
+2024-04-23 21:40:49,512 Element identified by [[ChromeDriver: chrome on MAC (0377f9745eadbcef1c1c5a8d1346f9cf)] -> id: avaamo__popup] was  visible 
+2024-04-23 21:40:59,707 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 21:40:59,719 Element identified by [[ChromeDriver: chrome on MAC (0377f9745eadbcef1c1c5a8d1346f9cf)] -> id: avaamo__popup] was  visible 
+2024-04-23 21:40:59,780 Switched to frame avaamoIframe 
+2024-04-23 21:40:59,937 Element identified by [[ChromeDriver: chrome on MAC (0377f9745eadbcef1c1c5a8d1346f9cf)] -> id: first_name] was  visible 
+2024-04-23 21:40:59,950 Element identified by [[ChromeDriver: chrome on MAC (0377f9745eadbcef1c1c5a8d1346f9cf)] -> id: email] was  visible 
+2024-04-23 21:41:00,227 Entered deepak to[[ChromeDriver: chrome on MAC (0377f9745eadbcef1c1c5a8d1346f9cf)] -> id: first_name] 
+2024-04-23 21:41:00,394 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (0377f9745eadbcef1c1c5a8d1346f9cf)] -> id: email] 
+2024-04-23 21:41:18,224 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 21:41:28,253 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 21:41:28,410 Welcome message and image is shown 
+2024-04-23 21:41:28,573 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (0377f9745eadbcef1c1c5a8d1346f9cf)] -> id: queryTextbox] 
+2024-04-23 21:41:28,822 Clicked on  [[ChromeDriver: chrome on MAC (0377f9745eadbcef1c1c5a8d1346f9cf)] -> xpath: //button[text()='Send']] 
+2024-04-23 21:41:28,822 Sent chat I want to order a pizza 
+2024-04-23 21:41:32,880 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 21:41:36,970 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 21:41:37,120 Option selected:veg 
+2024-04-23 21:41:41,193 Sent chat messages is not  verifiedveg 
+2024-04-23 21:41:41,496 Option selected:Cheese 
+2024-04-23 21:41:45,613 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 21:41:45,786 Option selected:Thick Crust 
+2024-04-23 21:41:46,702 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 21:41:47,061 Size  selected:Medium 
+2024-04-23 21:41:51,264 Received chat messages is not  verifiedWould you like to confirm the order? 
+2024-04-23 21:41:51,436 Quick replyYes  selected: 
+2024-04-23 21:41:55,665 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 21:41:57,951 Rating items foundGood 
+2024-04-23 21:41:57,955 Switched to default content  
+2024-04-23 21:41:58,792 Mac Pizaa Test : Test Passed 
+2024-04-23 21:41:59,389 Total number of testcases : 1 
+2024-04-23 21:41:59,389 Number of testcases Passed : 1 
+2024-04-23 21:41:59,390 Number of testcases Failed : 0 
+2024-04-23 21:41:59,390 Number of testcases Skipped  : 0 
+2024-04-23 21:41:59,390 ************************** Test Execution Finished ************************************ 
+2024-04-23 21:42:40,393 ************************** Test Execution Started ************************************ 
+2024-04-23 21:42:58,882 Mac Pizaa Test: Test started 
+2024-04-23 21:42:59,251 Clicked on  [[ChromeDriver: chrome on MAC (82f17d47ae893a6e4640d676d7bfb496)] -> class name: avaamo__icon] 
+2024-04-23 21:42:59,426 Element identified by [[ChromeDriver: chrome on MAC (82f17d47ae893a6e4640d676d7bfb496)] -> id: avaamo__popup] was  visible 
+2024-04-23 21:43:09,716 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 21:43:09,737 Element identified by [[ChromeDriver: chrome on MAC (82f17d47ae893a6e4640d676d7bfb496)] -> id: avaamo__popup] was  visible 
+2024-04-23 21:43:16,751 Switched to frame avaamoIframe 
+2024-04-23 21:43:16,943 Element identified by [[ChromeDriver: chrome on MAC (82f17d47ae893a6e4640d676d7bfb496)] -> id: first_name] was  visible 
+2024-04-23 21:43:16,955 Element identified by [[ChromeDriver: chrome on MAC (82f17d47ae893a6e4640d676d7bfb496)] -> id: email] was  visible 
+2024-04-23 21:43:17,413 Entered deepak to[[ChromeDriver: chrome on MAC (82f17d47ae893a6e4640d676d7bfb496)] -> id: first_name] 
+2024-04-23 21:43:17,619 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (82f17d47ae893a6e4640d676d7bfb496)] -> id: email] 
+2024-04-23 21:43:33,655 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 21:43:43,704 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 21:43:43,885 Welcome message and image is shown 
+2024-04-23 21:43:44,056 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (82f17d47ae893a6e4640d676d7bfb496)] -> id: queryTextbox] 
+2024-04-23 21:43:44,299 Clicked on  [[ChromeDriver: chrome on MAC (82f17d47ae893a6e4640d676d7bfb496)] -> xpath: //button[text()='Send']] 
+2024-04-23 21:43:44,299 Sent chat I want to order a pizza 
+2024-04-23 21:43:48,368 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 21:43:52,462 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 21:43:52,641 Option selected:veg 
+2024-04-23 21:43:56,715 Sent chat messages is not  verifiedveg 
+2024-04-23 21:43:57,028 Option selected:Cheese 
+2024-04-23 21:44:01,108 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 21:44:01,296 Option selected:Thick Crust 
+2024-04-23 21:44:02,754 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 21:44:03,164 Size  selected:Medium 
+2024-04-23 21:44:07,290 Received chat messages is not  verifiedWould you like to confirm the order? 
+2024-04-23 21:44:07,433 Quick replyYes  selected: 
+2024-04-23 21:44:11,567 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 21:44:13,257 Rating items foundGood 
+2024-04-23 21:44:13,281 Switched to default content  
+2024-04-23 21:44:14,275 Mac Pizaa Test : Test Passed 
+2024-04-23 21:44:14,941 Total number of testcases : 1 
+2024-04-23 21:44:14,942 Number of testcases Passed : 1 
+2024-04-23 21:44:14,942 Number of testcases Failed : 0 
+2024-04-23 21:44:14,942 Number of testcases Skipped  : 0 
+2024-04-23 21:44:14,942 ************************** Test Execution Finished ************************************ 
+2024-04-23 21:50:13,554 ************************** Test Execution Started ************************************ 
+2024-04-23 21:50:30,191 Mac Pizaa Test: Test started 
+2024-04-23 21:50:30,541 Clicked on  [[ChromeDriver: chrome on MAC (3af5c35a5f5cf82b01770481cb522898)] -> class name: avaamo__icon] 
+2024-04-23 21:50:30,541 Clicked on  [[ChromeDriver: chrome on MAC (3af5c35a5f5cf82b01770481cb522898)] -> class name: avaamo__icon] 
+2024-04-23 21:50:37,650 Element identified by [[ChromeDriver: chrome on MAC (3af5c35a5f5cf82b01770481cb522898)] -> id: avaamo__popup] was not visible 
+2024-04-23 21:50:37,650 Element identified by [[ChromeDriver: chrome on MAC (3af5c35a5f5cf82b01770481cb522898)] -> id: avaamo__popup] was not visible 
+2024-04-23 21:50:43,098 Element identified by [[ChromeDriver: chrome on MAC (3af5c35a5f5cf82b01770481cb522898)] -> id: avaamo__popup] was not visible 
+2024-04-23 21:50:43,098 Element identified by [[ChromeDriver: chrome on MAC (3af5c35a5f5cf82b01770481cb522898)] -> id: avaamo__popup] was not visible 
+2024-04-23 21:51:03,170 Couldn't find frame avaamoIframeNo frame element found by name or id avaamoIframe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'FCIs-MacBook-Pro.local', ip: '2405:201:a41e:2913:5173:cebd:605c:d075%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '21.0.1'
+Driver info: driver.version: unknown 
+2024-04-23 21:51:03,188 Couldn't find frame avaamoIframeNo frame element found by name or id avaamoIframe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'FCIs-MacBook-Pro.local', ip: '2405:201:a41e:2913:5173:cebd:605c:d075%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '21.0.1'
+Driver info: driver.version: unknown 
+2024-04-23 21:51:33,315 Element identified by Proxy element for: DefaultElementLocator 'By.id: first_name' was not visible 
+2024-04-23 21:51:33,316 Element identified by Proxy element for: DefaultElementLocator 'By.id: first_name' was not visible 
+2024-04-23 21:52:03,426 Log in unsuccessfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email'Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: first_name' (tried for 5 second(s) with 500 milliseconds interval) 
+2024-04-23 21:52:03,428 Log in unsuccessfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email'Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: first_name' (tried for 5 second(s) with 500 milliseconds interval) 
+2024-04-23 21:52:23,599 Welcome messages not shown 
+2024-04-23 21:52:23,601 Welcome messages not shown 
+2024-04-23 21:52:43,725 Couldn’t send chat I want to order a pizza 
+2024-04-23 21:52:43,727 Couldn’t send chat I want to order a pizza 
+2024-04-23 21:52:57,810 Sent chat messages  is   verifiedI want to order a Pizza 
+2024-04-23 21:52:57,810 Sent chat messages  is   verifiedI want to order a Pizza 
+2024-04-23 21:53:11,874 Received chat messages is not  verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 21:53:11,876 Received chat messages is not  verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 21:53:36,010 Sent chat messages  is   verifiedveg 
+2024-04-23 21:53:36,011 Sent chat messages  is   verifiedveg 
+2024-04-23 21:53:47,971 ************************** Test Execution Started ************************************ 
+2024-04-23 21:53:58,494 Mac Pizaa Test: Test started 
+2024-04-23 21:53:58,883 Clicked on  [[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> class name: avaamo__icon] 
+2024-04-23 21:53:58,883 Clicked on  [[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> class name: avaamo__icon] 
+2024-04-23 21:53:59,087 Element identified by [[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> id: avaamo__popup] was  visible 
+2024-04-23 21:53:59,087 Element identified by [[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> id: avaamo__popup] was  visible 
+2024-04-23 21:54:09,602 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 21:54:09,603 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 21:54:09,653 Element identified by [[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> id: avaamo__popup] was  visible 
+2024-04-23 21:54:09,671 Element identified by [[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> id: avaamo__popup] was  visible 
+2024-04-23 21:54:09,941 Switched to frame avaamoIframe 
+2024-04-23 21:54:09,946 Switched to frame avaamoIframe 
+2024-04-23 21:54:10,563 Element identified by [[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> id: first_name] was  visible 
+2024-04-23 21:54:10,565 Element identified by [[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> id: first_name] was  visible 
+2024-04-23 21:54:10,615 Element identified by [[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> id: email] was  visible 
+2024-04-23 21:54:10,615 Element identified by [[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> id: email] was  visible 
+2024-04-23 21:54:12,489 Entered deepak to[[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> id: first_name] 
+2024-04-23 21:54:12,489 Entered deepak to[[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> id: first_name] 
+2024-04-23 21:54:13,128 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> id: email] 
+2024-04-23 21:54:13,173 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> id: email] 
+2024-04-23 21:54:27,907 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 21:54:27,913 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 21:54:37,952 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 21:54:37,952 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 21:54:38,235 Welcome message and image is shown 
+2024-04-23 21:54:38,235 Welcome message and image is shown 
+2024-04-23 21:54:38,483 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> id: queryTextbox] 
+2024-04-23 21:54:38,483 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> id: queryTextbox] 
+2024-04-23 21:54:38,833 Clicked on  [[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> xpath: //button[text()='Send']] 
+2024-04-23 21:54:38,834 Clicked on  [[ChromeDriver: chrome on MAC (2011b924c8cf4308c1be90a0ed130126)] -> xpath: //button[text()='Send']] 
+2024-04-23 21:54:38,834 Sent chat I want to order a pizza 
+2024-04-23 21:54:38,834 Sent chat I want to order a pizza 
+2024-04-23 21:54:42,908 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 21:54:42,908 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 21:54:47,003 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 21:54:47,003 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 21:54:47,188 Option selected:veg 
+2024-04-23 21:54:47,188 Option selected:veg 
+2024-04-23 21:54:51,266 Sent chat messages is not  verifiedveg 
+2024-04-23 21:54:51,267 Sent chat messages is not  verifiedveg 
+2024-04-23 21:54:51,590 Option selected:Cheese 
+2024-04-23 21:54:51,590 Option selected:Cheese 
+2024-04-23 21:54:55,668 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 21:54:55,668 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 21:54:55,850 Option selected:Thick Crust 
+2024-04-23 21:54:55,850 Option selected:Thick Crust 
+2024-04-23 21:54:59,635 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 21:54:59,636 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 21:54:59,976 Size  selected:Medium 
+2024-04-23 21:54:59,976 Size  selected:Medium 
+2024-04-23 21:55:04,083 Received chat messages is not  verifiedWould you like to confirm the order? 
+2024-04-23 21:55:04,083 Received chat messages is not  verifiedWould you like to confirm the order? 
+2024-04-23 21:55:04,252 Quick replyYes  selected: 
+2024-04-23 21:55:04,252 Quick replyYes  selected: 
+2024-04-23 21:55:08,381 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 21:55:08,381 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 21:55:10,669 Rating items foundGood 
+2024-04-23 21:55:10,670 Rating items foundGood 
+2024-04-23 21:55:10,678 Switched to default content  
+2024-04-23 21:55:10,678 Switched to default content  
+2024-04-23 21:55:10,683 Mac Pizaa Test : Test Passed 
+2024-04-23 21:55:13,900 Total number of testcases : 1 
+2024-04-23 21:55:13,900 Number of testcases Passed : 1 
+2024-04-23 21:55:13,900 Number of testcases Failed : 0 
+2024-04-23 21:55:13,900 Number of testcases Skipped  : 0 
+2024-04-23 21:55:13,901 ************************** Test Execution Finished ************************************ 
+2024-04-23 22:01:04,070 ************************** Test Execution Started ************************************ 
+2024-04-23 22:01:22,349 Mac Pizaa Test: Test started 
+2024-04-23 22:01:22,866 Clicked on  [[ChromeDriver: chrome on MAC (7493a7f8aea047cf4d90a06439486d29)] -> class name: avaamo__icon] 
+2024-04-23 22:01:22,881 Clicked on  [[ChromeDriver: chrome on MAC (7493a7f8aea047cf4d90a06439486d29)] -> class name: avaamo__icon] 
+2024-04-23 22:01:30,047 Element identified by [[ChromeDriver: chrome on MAC (7493a7f8aea047cf4d90a06439486d29)] -> id: avaamo__popup] was not visible 
+2024-04-23 22:01:30,047 Element identified by [[ChromeDriver: chrome on MAC (7493a7f8aea047cf4d90a06439486d29)] -> id: avaamo__popup] was not visible 
+2024-04-23 22:01:35,478 Element identified by [[ChromeDriver: chrome on MAC (7493a7f8aea047cf4d90a06439486d29)] -> id: avaamo__popup] was not visible 
+2024-04-23 22:01:35,479 Element identified by [[ChromeDriver: chrome on MAC (7493a7f8aea047cf4d90a06439486d29)] -> id: avaamo__popup] was not visible 
+2024-04-23 22:01:55,566 Couldn't find frame avaamoIframeNo frame element found by name or id avaamoIframe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'FCIs-MacBook-Pro.local', ip: '2405:201:a41e:2913:5173:cebd:605c:d075%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '21.0.1'
+Driver info: driver.version: unknown 
+2024-04-23 22:01:55,568 Couldn't find frame avaamoIframeNo frame element found by name or id avaamoIframe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'FCIs-MacBook-Pro.local', ip: '2405:201:a41e:2913:5173:cebd:605c:d075%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '21.0.1'
+Driver info: driver.version: unknown 
+2024-04-23 22:02:25,673 Element identified by Proxy element for: DefaultElementLocator 'By.id: first_name' was not visible 
+2024-04-23 22:02:25,674 Element identified by Proxy element for: DefaultElementLocator 'By.id: first_name' was not visible 
+2024-04-23 22:02:46,457 ************************** Test Execution Started ************************************ 
+2024-04-23 22:03:03,573 Mac Pizaa Test: Test started 
+2024-04-23 22:03:03,804 Clicked on  [[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> class name: avaamo__icon] 
+2024-04-23 22:03:03,804 Clicked on  [[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> class name: avaamo__icon] 
+2024-04-23 22:03:03,996 Element identified by [[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:03:03,996 Element identified by [[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:03:14,247 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 22:03:14,248 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 22:03:14,263 Element identified by [[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:03:14,263 Element identified by [[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:03:14,381 Switched to frame avaamoIframe 
+2024-04-23 22:03:14,381 Switched to frame avaamoIframe 
+2024-04-23 22:03:14,558 Element identified by [[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> id: first_name] was  visible 
+2024-04-23 22:03:14,559 Element identified by [[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> id: first_name] was  visible 
+2024-04-23 22:03:14,573 Element identified by [[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> id: email] was  visible 
+2024-04-23 22:03:14,573 Element identified by [[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> id: email] was  visible 
+2024-04-23 22:03:14,942 Entered deepak to[[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> id: first_name] 
+2024-04-23 22:03:14,943 Entered deepak to[[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> id: first_name] 
+2024-04-23 22:03:15,096 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> id: email] 
+2024-04-23 22:03:15,096 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> id: email] 
+2024-04-23 22:03:29,230 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 22:03:29,231 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 22:03:39,278 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 22:03:39,278 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 22:03:39,426 Welcome message and image is shown 
+2024-04-23 22:03:39,427 Welcome message and image is shown 
+2024-04-23 22:03:39,584 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> id: queryTextbox] 
+2024-04-23 22:03:39,584 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> id: queryTextbox] 
+2024-04-23 22:03:39,826 Clicked on  [[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> xpath: //button[text()='Send']] 
+2024-04-23 22:03:39,826 Clicked on  [[ChromeDriver: chrome on MAC (ecbf0186397b1330fc97e58d44f788cc)] -> xpath: //button[text()='Send']] 
+2024-04-23 22:03:39,826 Sent chat I want to order a pizza 
+2024-04-23 22:03:39,826 Sent chat I want to order a pizza 
+2024-04-23 22:03:43,884 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 22:03:43,884 Sent chat messages is not  verifiedI want to order a Pizza 
+2024-04-23 22:03:47,951 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 22:03:47,952 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 22:03:48,128 Option selected:veg 
+2024-04-23 22:03:48,129 Option selected:veg 
+2024-04-23 22:03:52,191 Sent chat messages is not  verifiedveg 
+2024-04-23 22:03:52,192 Sent chat messages is not  verifiedveg 
+2024-04-23 22:03:52,495 Option selected:Cheese 
+2024-04-23 22:03:52,495 Option selected:Cheese 
+2024-04-23 22:03:56,575 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 22:03:56,576 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 22:03:56,756 Option selected:Thick Crust 
+2024-04-23 22:03:56,756 Option selected:Thick Crust 
+2024-04-23 22:03:57,588 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 22:03:57,589 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 22:03:57,902 Size  selected:Medium 
+2024-04-23 22:03:57,902 Size  selected:Medium 
+2024-04-23 22:04:02,010 Received chat messages is not  verifiedWould you like to confirm the order? 
+2024-04-23 22:04:02,010 Received chat messages is not  verifiedWould you like to confirm the order? 
+2024-04-23 22:04:02,179 Quick replyYes  selected: 
+2024-04-23 22:04:02,180 Quick replyYes  selected: 
+2024-04-23 22:04:06,312 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 22:04:06,313 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 22:04:09,755 Rating items foundGood 
+2024-04-23 22:04:09,755 Rating items foundGood 
+2024-04-23 22:04:09,760 Switched to default content  
+2024-04-23 22:04:09,760 Switched to default content  
+2024-04-23 22:04:13,102 Mac Pizaa Test : Test Passed 
+2024-04-23 22:04:14,047 Total number of testcases : 1 
+2024-04-23 22:04:14,047 Number of testcases Passed : 1 
+2024-04-23 22:04:14,048 Number of testcases Failed : 0 
+2024-04-23 22:04:14,048 Number of testcases Skipped  : 0 
+2024-04-23 22:04:14,048 ************************** Test Execution Finished ************************************ 
+2024-04-23 22:08:58,972 ************************** Test Execution Started ************************************ 
+2024-04-23 22:09:14,471 Mac Pizaa Test: Test started 
+2024-04-23 22:09:14,774 Clicked on  [[ChromeDriver: chrome on MAC (f76eb0724dd82cc588a1ebe77170b779)] -> class name: avaamo__icon] 
+2024-04-23 22:09:14,774 Clicked on  [[ChromeDriver: chrome on MAC (f76eb0724dd82cc588a1ebe77170b779)] -> class name: avaamo__icon] 
+2024-04-23 22:09:14,988 Element identified by [[ChromeDriver: chrome on MAC (f76eb0724dd82cc588a1ebe77170b779)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:09:14,988 Element identified by [[ChromeDriver: chrome on MAC (f76eb0724dd82cc588a1ebe77170b779)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:09:38,670 ************************** Test Execution Started ************************************ 
+2024-04-23 22:09:51,371 Mac Pizaa Test: Test started 
+2024-04-23 22:09:51,866 Clicked on  [[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> class name: avaamo__icon] 
+2024-04-23 22:09:51,893 Clicked on  [[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> class name: avaamo__icon] 
+2024-04-23 22:09:52,140 Element identified by [[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:09:52,140 Element identified by [[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:10:02,409 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 22:10:02,410 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 22:10:02,429 Element identified by [[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:10:02,429 Element identified by [[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:10:02,510 Switched to frame avaamoIframe 
+2024-04-23 22:10:02,511 Switched to frame avaamoIframe 
+2024-04-23 22:10:02,762 Element identified by [[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> id: first_name] was  visible 
+2024-04-23 22:10:02,763 Element identified by [[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> id: first_name] was  visible 
+2024-04-23 22:10:02,782 Element identified by [[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> id: email] was  visible 
+2024-04-23 22:10:02,782 Element identified by [[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> id: email] was  visible 
+2024-04-23 22:10:03,643 Entered deepak to[[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> id: first_name] 
+2024-04-23 22:10:03,643 Entered deepak to[[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> id: first_name] 
+2024-04-23 22:10:03,867 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> id: email] 
+2024-04-23 22:10:03,869 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> id: email] 
+2024-04-23 22:10:19,643 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 22:10:19,645 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 22:10:29,713 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 22:10:29,713 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 22:10:29,947 Welcome message and image is shown 
+2024-04-23 22:10:29,947 Welcome message and image is shown 
+2024-04-23 22:10:30,145 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> id: queryTextbox] 
+2024-04-23 22:10:30,145 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> id: queryTextbox] 
+2024-04-23 22:10:30,408 Clicked on  [[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> xpath: //button[text()='Send']] 
+2024-04-23 22:10:30,410 Clicked on  [[ChromeDriver: chrome on MAC (5f90876efab6a84833732eec504f93e8)] -> xpath: //button[text()='Send']] 
+2024-04-23 22:10:30,411 Sent chat I want to order a pizza 
+2024-04-23 22:10:30,411 Sent chat I want to order a pizza 
+2024-04-23 22:10:31,933 Option selected:veg 
+2024-04-23 22:10:31,933 Option selected:veg 
+2024-04-23 22:10:32,890 Option selected:Cheese 
+2024-04-23 22:10:32,890 Option selected:Cheese 
+2024-04-23 22:10:37,026 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 22:10:37,027 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 22:10:37,656 Option selected:Thick Crust 
+2024-04-23 22:10:37,670 Option selected:Thick Crust 
+2024-04-23 22:10:38,539 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 22:10:38,539 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 22:10:38,911 Size  selected:Medium 
+2024-04-23 22:10:38,911 Size  selected:Medium 
+2024-04-23 22:10:43,122 Received chat messages is not  verifiedWould you like to confirm the order? 
+2024-04-23 22:10:43,124 Received chat messages is not  verifiedWould you like to confirm the order? 
+2024-04-23 22:10:43,274 Quick replyYes  selected: 
+2024-04-23 22:10:43,275 Quick replyYes  selected: 
+2024-04-23 22:10:47,533 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 22:10:47,534 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 22:10:50,539 Rating items foundGood 
+2024-04-23 22:10:50,540 Rating items foundGood 
+2024-04-23 22:10:50,545 Switched to default content  
+2024-04-23 22:10:50,545 Switched to default content  
+2024-04-23 22:10:50,549 Mac Pizaa Test : Test Passed 
+2024-04-23 22:10:52,993 Total number of testcases : 1 
+2024-04-23 22:10:52,993 Number of testcases Passed : 1 
+2024-04-23 22:10:52,994 Number of testcases Failed : 0 
+2024-04-23 22:10:52,994 Number of testcases Skipped  : 0 
+2024-04-23 22:10:52,994 ************************** Test Execution Finished ************************************ 
+2024-04-23 22:14:36,888 ************************** Test Execution Started ************************************ 
+2024-04-23 22:14:53,783 Mac Pizaa Test: Test started 
+2024-04-23 22:14:54,105 Clicked on  [[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> class name: avaamo__icon] 
+2024-04-23 22:14:54,105 Clicked on  [[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> class name: avaamo__icon] 
+2024-04-23 22:14:54,330 Element identified by [[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:14:54,330 Element identified by [[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:15:04,558 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 22:15:04,558 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 22:15:04,573 Element identified by [[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:15:04,573 Element identified by [[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:15:04,633 Switched to frame avaamoIframe 
+2024-04-23 22:15:04,633 Switched to frame avaamoIframe 
+2024-04-23 22:15:04,864 Element identified by [[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> id: first_name] was  visible 
+2024-04-23 22:15:04,864 Element identified by [[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> id: first_name] was  visible 
+2024-04-23 22:15:04,879 Element identified by [[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> id: email] was  visible 
+2024-04-23 22:15:04,879 Element identified by [[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> id: email] was  visible 
+2024-04-23 22:15:05,248 Entered deepak to[[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> id: first_name] 
+2024-04-23 22:15:05,249 Entered deepak to[[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> id: first_name] 
+2024-04-23 22:15:05,436 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> id: email] 
+2024-04-23 22:15:05,436 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> id: email] 
+2024-04-23 22:15:21,397 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 22:15:21,398 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 22:15:31,484 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 22:15:31,499 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 22:15:31,669 Welcome message and image is shown 
+2024-04-23 22:15:31,670 Welcome message and image is shown 
+2024-04-23 22:15:31,867 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> id: queryTextbox] 
+2024-04-23 22:15:31,867 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> id: queryTextbox] 
+2024-04-23 22:15:32,129 Clicked on  [[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> xpath: //button[text()='Send']] 
+2024-04-23 22:15:32,130 Clicked on  [[ChromeDriver: chrome on MAC (256be95e93d887b1cc10cac648aae67b)] -> xpath: //button[text()='Send']] 
+2024-04-23 22:15:32,130 Sent chat I want to order a pizza 
+2024-04-23 22:15:32,130 Sent chat I want to order a pizza 
+2024-04-23 22:15:32,966 Option selected:veg 
+2024-04-23 22:15:32,967 Option selected:veg 
+2024-04-23 22:15:34,074 Option selected:Cheese 
+2024-04-23 22:15:34,075 Option selected:Cheese 
+2024-04-23 22:17:49,711 ************************** Test Execution Started ************************************ 
+2024-04-23 22:18:06,265 Mac Pizaa Test: Test started 
+2024-04-23 22:18:06,537 Clicked on  [[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> class name: avaamo__icon] 
+2024-04-23 22:18:06,538 Clicked on  [[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> class name: avaamo__icon] 
+2024-04-23 22:18:06,768 Element identified by [[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:18:06,769 Element identified by [[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:18:17,010 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 22:18:17,016 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 22:18:17,032 Element identified by [[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:18:17,032 Element identified by [[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:18:17,093 Switched to frame avaamoIframe 
+2024-04-23 22:18:17,094 Switched to frame avaamoIframe 
+2024-04-23 22:18:17,305 Element identified by [[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> id: first_name] was  visible 
+2024-04-23 22:18:17,306 Element identified by [[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> id: first_name] was  visible 
+2024-04-23 22:18:17,320 Element identified by [[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> id: email] was  visible 
+2024-04-23 22:18:17,320 Element identified by [[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> id: email] was  visible 
+2024-04-23 22:18:17,696 Entered deepak to[[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> id: first_name] 
+2024-04-23 22:18:17,696 Entered deepak to[[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> id: first_name] 
+2024-04-23 22:18:17,882 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> id: email] 
+2024-04-23 22:18:17,883 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> id: email] 
+2024-04-23 22:18:31,599 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 22:18:31,600 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 22:18:41,652 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 22:18:41,653 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 22:18:41,806 Welcome message and image is shown 
+2024-04-23 22:18:41,807 Welcome message and image is shown 
+2024-04-23 22:18:41,986 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> id: queryTextbox] 
+2024-04-23 22:18:41,986 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> id: queryTextbox] 
+2024-04-23 22:18:42,205 Clicked on  [[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> xpath: //button[text()='Send']] 
+2024-04-23 22:18:42,205 Clicked on  [[ChromeDriver: chrome on MAC (98d134b00cd79a75e1e71a8905fac772)] -> xpath: //button[text()='Send']] 
+2024-04-23 22:18:42,205 Sent chat I want to order a pizza 
+2024-04-23 22:18:42,206 Sent chat I want to order a pizza 
+2024-04-23 22:18:43,144 Option selected:veg 
+2024-04-23 22:18:43,144 Option selected:veg 
+2024-04-23 22:18:45,335 Option selected:Cheese 
+2024-04-23 22:18:45,335 Option selected:Cheese 
+2024-04-23 22:26:13,145 ************************** Test Execution Started ************************************ 
+2024-04-23 22:26:29,621 Mac Pizaa Test: Test started 
+2024-04-23 22:26:29,996 Clicked on  [[ChromeDriver: chrome on MAC (30a39bfee8d96c311b3f6f00a587e4ec)] -> class name: avaamo__icon] 
+2024-04-23 22:26:29,997 Clicked on  [[ChromeDriver: chrome on MAC (30a39bfee8d96c311b3f6f00a587e4ec)] -> class name: avaamo__icon] 
+2024-04-23 22:26:37,087 Element identified by [[ChromeDriver: chrome on MAC (30a39bfee8d96c311b3f6f00a587e4ec)] -> id: avaamo__popup] was not visible 
+2024-04-23 22:26:37,088 Element identified by [[ChromeDriver: chrome on MAC (30a39bfee8d96c311b3f6f00a587e4ec)] -> id: avaamo__popup] was not visible 
+2024-04-23 22:26:42,508 Element identified by [[ChromeDriver: chrome on MAC (30a39bfee8d96c311b3f6f00a587e4ec)] -> id: avaamo__popup] was not visible 
+2024-04-23 22:26:42,508 Element identified by [[ChromeDriver: chrome on MAC (30a39bfee8d96c311b3f6f00a587e4ec)] -> id: avaamo__popup] was not visible 
+2024-04-23 22:27:02,594 Couldn't find frame avaamoIframeNo frame element found by name or id avaamoIframe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'FCIs-MacBook-Pro.local', ip: '2405:201:a41e:2913:5173:cebd:605c:d075%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '21.0.1'
+Driver info: driver.version: unknown 
+2024-04-23 22:27:02,594 Couldn't find frame avaamoIframeNo frame element found by name or id avaamoIframe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'FCIs-MacBook-Pro.local', ip: '2405:201:a41e:2913:5173:cebd:605c:d075%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '21.0.1'
+Driver info: driver.version: unknown 
+2024-04-23 22:27:32,762 Element identified by Proxy element for: DefaultElementLocator 'By.id: first_name' was not visible 
+2024-04-23 22:27:32,768 Element identified by Proxy element for: DefaultElementLocator 'By.id: first_name' was not visible 
+2024-04-23 22:28:03,844 Log in unsuccessfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email'Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: first_name' (tried for 5 second(s) with 500 milliseconds interval) 
+2024-04-23 22:28:03,845 Log in unsuccessfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email'Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: first_name' (tried for 5 second(s) with 500 milliseconds interval) 
+2024-04-23 22:28:24,052 Welcome messages not shown 
+2024-04-23 22:28:24,053 Welcome messages not shown 
+2024-04-23 22:28:44,156 Couldn’t send chat I want to order a pizza 
+2024-04-23 22:28:44,157 Couldn’t send chat I want to order a pizza 
+2024-04-23 22:29:18,393 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 22:29:18,394 Received chat messages is not  verifiedGreat ! You have Selected cheese 
+2024-04-23 22:29:30,501 ************************** Test Execution Started ************************************ 
+2024-04-23 22:29:42,427 Mac Pizaa Test: Test started 
+2024-04-23 22:29:42,665 Clicked on  [[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> class name: avaamo__icon] 
+2024-04-23 22:29:42,665 Clicked on  [[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> class name: avaamo__icon] 
+2024-04-23 22:29:42,876 Element identified by [[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:29:42,876 Element identified by [[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:29:53,095 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 22:29:53,095 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 22:29:53,108 Element identified by [[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:29:53,109 Element identified by [[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:29:53,163 Switched to frame avaamoIframe 
+2024-04-23 22:29:53,163 Switched to frame avaamoIframe 
+2024-04-23 22:29:53,331 Element identified by [[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> id: first_name] was  visible 
+2024-04-23 22:29:53,331 Element identified by [[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> id: first_name] was  visible 
+2024-04-23 22:29:53,343 Element identified by [[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> id: email] was  visible 
+2024-04-23 22:29:53,344 Element identified by [[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> id: email] was  visible 
+2024-04-23 22:29:53,622 Entered deepak to[[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> id: first_name] 
+2024-04-23 22:29:53,622 Entered deepak to[[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> id: first_name] 
+2024-04-23 22:29:53,789 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> id: email] 
+2024-04-23 22:29:53,789 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> id: email] 
+2024-04-23 22:30:07,130 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 22:30:07,132 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 22:30:17,189 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 22:30:17,189 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 22:30:17,347 Welcome message and image is shown 
+2024-04-23 22:30:17,347 Welcome message and image is shown 
+2024-04-23 22:30:17,484 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> id: queryTextbox] 
+2024-04-23 22:30:17,485 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> id: queryTextbox] 
+2024-04-23 22:30:17,683 Clicked on  [[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> xpath: //button[text()='Send']] 
+2024-04-23 22:30:17,683 Clicked on  [[ChromeDriver: chrome on MAC (dd5e48d3b99acbaa34b83499cc0f74e0)] -> xpath: //button[text()='Send']] 
+2024-04-23 22:30:17,684 Sent chat I want to order a pizza 
+2024-04-23 22:30:17,684 Sent chat I want to order a pizza 
+2024-04-23 22:30:18,563 Option selected:veg 
+2024-04-23 22:30:18,563 Option selected:veg 
+2024-04-23 22:30:19,506 Option selected:Cheese 
+2024-04-23 22:30:19,507 Option selected:Cheese 
+2024-04-23 22:30:23,560 Received Chat messages is   verifiedGreat ! You have Selected cheese 
+2024-04-23 22:30:23,560 Received Chat messages is   verifiedGreat ! You have Selected cheese 
+2024-04-23 22:30:23,802 Option selected:Thick Crust 
+2024-04-23 22:30:23,802 Option selected:Thick Crust 
+2024-04-23 22:30:24,936 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 22:30:24,938 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 22:30:25,602 Size  selected:Medium 
+2024-04-23 22:30:25,602 Size  selected:Medium 
+2024-04-23 22:30:29,714 Received Chat messages is   verifiedWould you like to confirm the order? 
+2024-04-23 22:30:29,715 Received Chat messages is   verifiedWould you like to confirm the order? 
+2024-04-23 22:30:29,952 Quick replyYes  selected: 
+2024-04-23 22:30:29,952 Quick replyYes  selected: 
+2024-04-23 22:30:34,018 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 22:30:34,019 Received chat messages is not  verifiedCONGRATS ! ORDER PLACED . 
+2024-04-23 22:30:35,459 Rating items foundGood 
+2024-04-23 22:30:35,459 Rating items foundGood 
+2024-04-23 22:30:35,465 Switched to default content  
+2024-04-23 22:30:35,465 Switched to default content  
+2024-04-23 22:30:36,282 Mac Pizaa Test : Test Passed 
+2024-04-23 22:30:36,853 Total number of testcases : 1 
+2024-04-23 22:30:36,853 Number of testcases Passed : 1 
+2024-04-23 22:30:36,854 Number of testcases Failed : 0 
+2024-04-23 22:30:36,854 Number of testcases Skipped  : 0 
+2024-04-23 22:30:36,854 ************************** Test Execution Finished ************************************ 
+2024-04-23 22:36:14,093 ************************** Test Execution Started ************************************ 
+2024-04-23 22:36:31,066 Mac Pizaa Test: Test started 
+2024-04-23 22:36:31,327 Clicked on  [[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> class name: avaamo__icon] 
+2024-04-23 22:36:31,327 Clicked on  [[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> class name: avaamo__icon] 
+2024-04-23 22:36:31,524 Element identified by [[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:36:31,524 Element identified by [[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:36:41,731 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 22:36:41,732 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 22:36:41,744 Element identified by [[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:36:41,745 Element identified by [[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> id: avaamo__popup] was  visible 
+2024-04-23 22:36:41,799 Switched to frame avaamoIframe 
+2024-04-23 22:36:41,799 Switched to frame avaamoIframe 
+2024-04-23 22:36:41,968 Element identified by [[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> id: first_name] was  visible 
+2024-04-23 22:36:41,968 Element identified by [[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> id: first_name] was  visible 
+2024-04-23 22:36:41,981 Element identified by [[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> id: email] was  visible 
+2024-04-23 22:36:41,981 Element identified by [[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> id: email] was  visible 
+2024-04-23 22:36:42,359 Entered deepak to[[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> id: first_name] 
+2024-04-23 22:36:42,359 Entered deepak to[[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> id: first_name] 
+2024-04-23 22:36:42,536 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> id: email] 
+2024-04-23 22:36:42,554 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> id: email] 
+2024-04-23 22:36:59,298 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 22:36:59,299 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 22:37:09,361 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 22:37:09,362 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 22:37:09,592 Welcome message and image is shown 
+2024-04-23 22:37:09,593 Welcome message and image is shown 
+2024-04-23 22:37:09,822 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> id: queryTextbox] 
+2024-04-23 22:37:09,822 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> id: queryTextbox] 
+2024-04-23 22:37:10,093 Clicked on  [[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> xpath: //button[text()='Send']] 
+2024-04-23 22:37:10,093 Clicked on  [[ChromeDriver: chrome on MAC (fbc2d4ff9d839acbfe8c54a3eae1da93)] -> xpath: //button[text()='Send']] 
+2024-04-23 22:37:10,093 Sent chat I want to order a pizza 
+2024-04-23 22:37:10,093 Sent chat I want to order a pizza 
+2024-04-23 22:37:14,137 Sent chat messages  is   verifiedI want to order a pizza 
+2024-04-23 22:37:14,137 Sent chat messages  is   verifiedI want to order a pizza 
+2024-04-23 22:37:18,194 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 22:37:18,194 Received Chat messages is   verifiedWe have a wide variety of freshly backed pizza . What would you like to Order ? 
+2024-04-23 22:37:18,349 Option selected:veg 
+2024-04-23 22:37:18,349 Option selected:veg 
+2024-04-23 22:37:22,395 Sent chat messages  is   verifiedveg 
+2024-04-23 22:37:22,395 Sent chat messages  is   verifiedveg 
+2024-04-23 22:37:22,696 Option selected:Cheese 
+2024-04-23 22:37:22,696 Option selected:Cheese 
+2024-04-23 22:37:26,754 Received Chat messages is   verifiedGreat ! You have Selected cheese 
+2024-04-23 22:37:26,754 Received Chat messages is   verifiedGreat ! You have Selected cheese 
+2024-04-23 22:37:26,901 Option selected:Thick Crust 
+2024-04-23 22:37:26,901 Option selected:Thick Crust 
+2024-04-23 22:37:27,802 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 22:37:27,803 Pizza size description shownGreat . Let's Select Your Pizza Size and Pizza Size 
+2024-04-23 22:37:28,156 Size  selected:Medium 
+2024-04-23 22:37:28,156 Size  selected:Medium 
+2024-04-23 22:37:32,220 Received Chat messages is   verifiedWould you like to confirm the order? 
+2024-04-23 22:37:32,222 Received Chat messages is   verifiedWould you like to confirm the order? 
+2024-04-23 22:37:32,390 Quick replyYes  selected: 
+2024-04-23 22:37:32,390 Quick replyYes  selected: 
+2024-04-23 22:37:36,519 Rating items foundGood 
+2024-04-23 22:37:36,519 Rating items foundGood 
+2024-04-23 22:37:36,528 Switched to default content  
+2024-04-23 22:37:36,528 Switched to default content  
+2024-04-23 22:37:37,901 Mac Pizaa Test : Test Passed 
+2024-04-23 22:37:38,559 Total number of testcases : 1 
+2024-04-23 22:37:38,560 Number of testcases Passed : 1 
+2024-04-23 22:37:38,560 Number of testcases Failed : 0 
+2024-04-23 22:37:38,560 Number of testcases Skipped  : 0 
+2024-04-23 22:37:38,560 ************************** Test Execution Finished ************************************ 
+2024-04-23 22:40:04,656 ************************** Test Execution Started ************************************ 
+2024-04-23 22:40:19,178 Mac Pizaa Test: Test started 
+2024-04-23 22:40:20,695 Element identified by [[ChromeDriver: chrome on MAC (d60044cac827a0aed3b68c221f7b18d8)] -> class name: avaamo__icon] was not visible 
+2024-04-23 22:40:20,695 Element identified by [[ChromeDriver: chrome on MAC (d60044cac827a0aed3b68c221f7b18d8)] -> class name: avaamo__icon] was not visible 
+2024-04-23 22:40:27,857 Element identified by [[ChromeDriver: chrome on MAC (d60044cac827a0aed3b68c221f7b18d8)] -> id: avaamo__popup] was not visible 
+2024-04-23 22:40:27,857 Element identified by [[ChromeDriver: chrome on MAC (d60044cac827a0aed3b68c221f7b18d8)] -> id: avaamo__popup] was not visible 
