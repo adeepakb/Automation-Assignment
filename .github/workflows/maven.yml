@@ -9,10 +9,14 @@
 name: Java CI with Maven
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  workflow_dispatch:
+    inputs:
+
+
+      environment:
+        description: 'Environment[qa,qaAuto,release]'
+        required: false
+        default: 'qa'
 
 jobs:
   build:

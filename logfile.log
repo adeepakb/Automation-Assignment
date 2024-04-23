@@ -1448,3 +1448,37 @@ Driver info: driver.version: unknown
 2024-04-23 22:40:20,695 Element identified by [[ChromeDriver: chrome on MAC (d60044cac827a0aed3b68c221f7b18d8)] -> class name: avaamo__icon] was not visible 
 2024-04-23 22:40:27,857 Element identified by [[ChromeDriver: chrome on MAC (d60044cac827a0aed3b68c221f7b18d8)] -> id: avaamo__popup] was not visible 
 2024-04-23 22:40:27,857 Element identified by [[ChromeDriver: chrome on MAC (d60044cac827a0aed3b68c221f7b18d8)] -> id: avaamo__popup] was not visible 
+2024-04-23 23:27:47,991 ************************** Test Execution Started ************************************ 
+2024-04-23 23:27:59,943 Mac Pizaa Test: Test started 
+2024-04-23 23:28:00,537 Clicked on  [[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> class name: avaamo__icon] 
+2024-04-23 23:28:00,538 Clicked on  [[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> class name: avaamo__icon] 
+2024-04-23 23:28:00,757 Element identified by [[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> id: avaamo__popup] was  visible 
+2024-04-23 23:28:00,757 Element identified by [[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> id: avaamo__popup] was  visible 
+2024-04-23 23:28:11,092 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 23:28:11,093 Clicked on  Proxy element for: DefaultElementLocator 'By.className: get-started-link' 
+2024-04-23 23:28:11,110 Element identified by [[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> id: avaamo__popup] was  visible 
+2024-04-23 23:28:11,111 Element identified by [[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> id: avaamo__popup] was  visible 
+2024-04-23 23:28:11,195 Switched to frame avaamoIframe 
+2024-04-23 23:28:11,195 Switched to frame avaamoIframe 
+2024-04-23 23:28:11,419 Element identified by [[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> id: first_name] was  visible 
+2024-04-23 23:28:11,419 Element identified by [[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> id: first_name] was  visible 
+2024-04-23 23:28:11,437 Element identified by [[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> id: email] was  visible 
+2024-04-23 23:28:11,437 Element identified by [[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> id: email] was  visible 
+2024-04-23 23:28:11,861 Entered deepak to[[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> id: first_name] 
+2024-04-23 23:28:11,861 Entered deepak to[[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> id: first_name] 
+2024-04-23 23:28:12,151 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> id: email] 
+2024-04-23 23:28:12,152 Entered deepakjagdambakumar@gmail.com to[[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> id: email] 
+2024-04-23 23:28:31,583 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 23:28:31,584 Clicked on  Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='send btn']' 
+2024-04-23 23:28:41,600 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 23:28:41,601 Logged in successfully to deepakand Proxy element for: DefaultElementLocator 'By.id: email' 
+2024-04-23 23:28:41,811 Welcome message and image is shown 
+2024-04-23 23:28:41,812 Welcome message and image is shown 
+2024-04-23 23:28:42,020 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> id: queryTextbox] 
+2024-04-23 23:28:42,021 Entered I want to order a pizza to[[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> id: queryTextbox] 
+2024-04-23 23:28:42,390 Clicked on  [[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> xpath: //button[text()='Send']] 
+2024-04-23 23:28:42,390 Clicked on  [[ChromeDriver: chrome on MAC (6e9d2c9fbeea277dea442095c1db3401)] -> xpath: //button[text()='Send']] 
+2024-04-23 23:28:42,391 Sent chat I want to order a pizza 
+2024-04-23 23:28:42,391 Sent chat I want to order a pizza 
+2024-04-23 23:28:46,430 Sent chat messages  is   verifiedI want to order a pizza 
+2024-04-23 23:28:46,430 Sent chat messages  is   verifiedI want to order a pizza 
