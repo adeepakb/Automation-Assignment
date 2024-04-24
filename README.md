@@ -1,5 +1,5 @@
 To run this project
-mvn clean install
+mvn clean test
 
 You can also run this projection via github workflow
 https://github.com/adeepakb/Automation-Assignment
