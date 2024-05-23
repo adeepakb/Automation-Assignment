@@ -103,9 +103,9 @@ public class BasePage {
 
     public boolean sendText(WebElement element, String value) {
         try {
-            WebDriverWait wait = new WebDriverWait(driver, 5);
+            WebDriverWait wait = new WebDriverWait(driver, 20);
             // Expectedcondition for the element to be clickable
-            wait.until(ExpectedConditions.visibilityOf(element));
+            wait.until(ExpectedConditions.elementToBeClickable(element));
             element.sendKeys(value);
             LogListener.reportLog(enumValues.LogsType.INFO, "Entered "+value +" to" + element.toString());
             return true;

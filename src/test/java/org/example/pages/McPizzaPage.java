@@ -102,11 +102,50 @@ public class McPizzaPage extends BasePage {
     @FindBy(xpath = "//button[@class='btn default_card_submit']")
     WebElement ratingSubmit;
 
+
+
+    @FindBy(id ="email")
+    WebElement emailInsta;
+
+    @FindBy(id="password")
+    WebElement password;
+
+
+    @FindBy(id="years")
+    WebElement years;
+
+    @FindBy(id="show-results")
+    WebElement showResults;
+
+    @FindBy(id = "interested-btn")
+    WebElement interestedBtn;
+
+
+    @FindBy(xpath = "//button[text()='Apply']")
+    WebElement Apply;
+
+
+    @FindBy(xpath = "//button[text()='Login']")
+    WebElement loginBtn;
     public McPizzaPage(WebDriver driver) {
         super(driver);
     }
 
 
+
+    public boolean loginNew(String emailId,String pass){
+        try {
+            waitForElementToBeVisible(emailInsta,15);
+            sendText(emailInsta,emailId);
+            sendText(password,pass);
+            isElementClickableThenClick(loginBtn,10);
+
+            return true;
+        } catch (Exception e) {
+            LogListener.reportLog(LogsType.ERROR, "Element identified by " + icon.toString() + " was not visible");
+            return false;
+        }
+    }
 
     public boolean waitForIcon() {
         try {
@@ -411,5 +450,48 @@ public class McPizzaPage extends BasePage {
             success=false;
         }
         return success;
+    }
+
+    public void enterEars(String number) {
+        try {
+            waitForElementToBeVisible(years,30);
+            years.clear();
+            sendText(years,number);
+            isElementClickableThenClick(showResults,15);
+            System.out.println("Started aplling jobs");
+        }catch (Exception e){
+            System.out.println("ee wala error");
+        }
+
+    }
+
+    public void appl(){
+
+            try {
+                try {
+                    isElementClickableThenClick(interestedBtn,15);
+                }catch (Exception e){
+                    System.out.println("failed to find 1st job");
+                }
+
+                int i=0;
+                while (true){
+                    try {
+                        waitForElementToBeVisible(Apply,25);
+                        isElementClickableThenClick(Apply,30);
+                        System.out.println("Apllied" +i++);
+                    }catch (Exception e){
+                        System.out.println("broke");
+                        break;
+                    }
+
+                }
+
+
+            }catch (Exception e){
+                System.out.println("failed to find  job appl button");
+            }
+
+
     }
 }
