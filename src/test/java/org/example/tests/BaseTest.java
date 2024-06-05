@@ -14,13 +14,14 @@ import org.example.util.TestProperties;
 
 import java.util.concurrent.TimeUnit;
 
-@Listeners({ ReportListener.class, LogListener.class })
+@Listeners({ReportListener.class, LogListener.class})
 
 public class BaseTest {
 
 
-
-    /** The driver. */
+    /**
+     * The driver.
+     */
     protected WebDriver driver;
 
     /**
@@ -47,8 +48,8 @@ public class BaseTest {
         LoggerUtil.log("Number of testcases Passed : " + passed);
         LoggerUtil.log("Number of testcases Failed : " + failed);
         LoggerUtil.log("Number of testcases Skipped  : " + skipped);
-       // boolean mailSent = MailUtil.sendMail(total, passed, failed, skipped);
-      //  LoggerUtil.log("Mail sent : " + mailSent);
+        // boolean mailSent = MailUtil.sendMail(total, passed, failed, skipped);
+        //  LoggerUtil.log("Mail sent : " + mailSent);
         LoggerUtil.log("************************** Test Execution Finished ************************************");
     }
 
@@ -61,7 +62,10 @@ public class BaseTest {
         WebDriverManager.chromedriver().setup();
         ChromeOptions ops = new ChromeOptions();
         ops.addArguments("disable-infobars");
-      //  ops.addArguments("--headless=new");
+        ops.addArguments("--ignore-certificate-errors");
+        ops.addArguments("--allow-running-insecure-content");
+      //  ops.addArguments("headless");
+        ops.addArguments("--disable-popup-blocking");
 
         driver = new ChromeDriver(ops);
         driver.manage().window().maximize();

@@ -29,21 +29,23 @@ public class InstahyreTest extends BaseTest {
     @Test
     public void macOrderTest() {
 
-        mcPizzaPage.loginNew("mayankece155@gmail.com","Rajesh12nisha");// mcPizzaPage.loginNew("deepakjagdambakumar@gmail.com","Deepak1!");
-        mcPizzaPage.appl();
-        mcPizzaPage.enterEars("1");
-        mcPizzaPage.appl();
-        mcPizzaPage.enterEars("2");
+       // mcPizzaPage.loginNew("deepakjagdambakumar@gmail.com","Deepak1!");
+        mcPizzaPage.loginNew("mayankece155@gmail.com","Rajesh12nisha");
+     //   mcPizzaPage.loginNew("Nirajiota@gmail.com","Niraj@2512");
         mcPizzaPage.appl();
         mcPizzaPage.enterEars("3");
         mcPizzaPage.appl();
         mcPizzaPage.enterEars("4");
         mcPizzaPage.appl();
-        mcPizzaPage.enterEars("5");
+        mcPizzaPage.enterEars("2");
         mcPizzaPage.appl();
         mcPizzaPage.enterEars("1");
         mcPizzaPage.appl();
         mcPizzaPage.enterEars("3");
+        mcPizzaPage.appl();
+        mcPizzaPage.enterEars("7");
+        mcPizzaPage.appl();
+        mcPizzaPage.enterEars("2");
         mcPizzaPage.appl();
         mcPizzaPage.enterEars("4");
         mcPizzaPage.appl();

@@ -22,17 +22,25 @@ public class NaukriTest extends BaseTest{
     }
     @Test
     public void linkedInAppl(){
-        naukriPage.login("deepakjagdambakumar@gmail.com","Deepak1!");
+      //naukriPage.login("mayankece155@gmail.com","May_30ank");
+        //naukriPage.login("deepakjagdambakumar@gmail.com","Deepak1!");
+       naukriPage.login("nirajiota@gmail.com" ,"nirajbtguy");
 
-        String [] jobStrg= {"QA Automation","SDET","Lead QA Automation","Lead SDET","Software Developer Engineer in Test","Lead QA engineer","QA Engineer","MLOPs","Gen Ai","Data Science","Machine Learning"};
-        for(String s: jobStrg){
-            driver.get("https://www.naukri.com/");
-            //naukriPage.searc("QA Automation");
-            naukriPage.searc(s);
-            naukriPage.appl();
+        while (true) {
+          // String[] jobStrg = { "MLOPs", "Gen Ai", "Data Science", "Machine Learning","Computer Vision","Deep Learning"}; //"QA Automation", "SDET", "Lead QA Automation", "Lead SDET", "Software Developer Engineer in Test", "Lead QA engineer", "QA Engineer",
+           // String[] jobStrg = { "React Js Developer", "React Js Frontend Developer", "Mern Stack", "Mern Stack Developer","Mean Stack Developer","Node Js Developer","Javascript Developer", "Fullstack Javascript Developer", "Fullstack react developer", "Node Js Backend Developer","Javascript", "Java Script Developer","CSS Developer", "CSS And Javascript"};
+
+            String[] jobStrg = {"Sales Manager","Sales Development","Business Development Manager","Senior sales manager","Senior business development manager","Business Development Executive","Business Development Executive Officer","Business development And Sales Manager"  };
+            for (String s : jobStrg) {
+                System.out.println("test  wit " + s);
+                driver.get("https://www.naukri.com/");
+                //naukriPage.searc("QA Automation");
+                naukriPage.searc(s);
+                naukriPage.appl();
+            }
         }
 
-        System.out.println("Deepak1!");
+       // System.out.println("Deepak1!");
 
 
     }

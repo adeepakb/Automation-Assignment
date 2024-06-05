@@ -40,19 +40,34 @@ public class NaukriPage extends BasePage{
     @FindBy (xpath = "//button[@id='apply-button']")
     WebElement applyBtn;
 
+    @FindBy(xpath = "//div[@class='chatbot_DrawerContentWrapper']")
+    WebElement detailFrame;
+
+
+    @FindBy (xpath = "//div[@class='botMsg msg ']")
+    List<WebElement> botMessages;
+
+    @FindBy(xpath = "//div[@class='textArea']")
+    WebElement inputArea;
+
+    @FindBy(xpath = "//div[@class='sendMsg']")
+    WebElement sendDetail;
+
 
 
 
     public boolean login(String emailId,String pass){
         try {
-         isElementClickableThenClick(loginBtn,15);
+         isElementClickableThenClick(loginBtn,20);
 //            isElementClickableThenClick(loginBtn,15);
             sendText(email,emailId);
             sendText(password,pass);
-            isElementClickableThenClick(loginSubmit,10);
-
+            isElementClickableThenClick(loginSubmit,20);
+            System.out.println(" logged in");
+            Thread.sleep(3000);
             return true;
         } catch (Exception e) {
+            System.out.println("not logged in");
             LogListener.reportLog(enumValues.LogsType.ERROR, "Element identified by "+ " was not visible");
             return false;
         }
@@ -61,9 +76,10 @@ public class NaukriPage extends BasePage{
     public boolean searc(String keword){
 
         try {
-            isElementClickableThenClick(searcBox1,15);
+            isElementClickableThenClick(searcBox1,20);
             sendText(searcBox2,keword);
-            isElementClickableThenClick(searcBtn,10);
+            isElementClickableThenClick(searcBtn,15);
+            System.out.println("searc "+keword+" ");
 
             return true;
         } catch (Exception e) {
@@ -73,15 +89,18 @@ public class NaukriPage extends BasePage{
     }
 
     public boolean appl(){
-
+        int i=0;
         for(WebElement job:jobs) {
 
             try {
-                isElementClickableThenClick(job, 15);
+                isElementClickableThenClick(job, 5);
                 ArrayList<String> tabs = new ArrayList<String> (driver.getWindowHandles());
                 driver.switchTo().window(tabs.get(1));
                 try {
-                    isElementClickableThenClick(applyBtn,10);
+                    isElementClickableThenClick(applyBtn,5);
+                    System.out.println("aaplied job "+i++);
+                   // fillform();
+                    Thread.sleep(3000);
                 }catch (Exception e){
                     System.out.println("not apll job");
                 }
@@ -90,9 +109,6 @@ public class NaukriPage extends BasePage{
 
                     driver.close();
                 }
-
-
-
                 driver.switchTo().window(tabs.get(0));
                // isElementClickableThenClick(searcBtn, 10);
 
@@ -104,6 +120,40 @@ public class NaukriPage extends BasePage{
         }
         return true;
     }
+
+//    private void fillform() {
+//
+//        try {
+//            waitForElementToBeVisible(detailFrame,10);
+//            waitForElementToBeVisible(botMessages.get(botMessages.size()-1),10);
+//
+//
+//            while (true){
+//                Thread.sleep(1000);
+//                String message = botMessages.get(botMessages.size()-1).getText();
+//                switch (message.toLowerCase().contains()){
+//                    case "first name":
+//                        sendText(inputArea,"Mayank Kumar");
+//                        waitForElementToBeVisible(sendDetail,5);
+//                        break;
+//                    case "Last Name":
+//                        sendText(inputArea,"Mayank Kumar");
+//                        waitForElementToBeVisible(sendDetail,5);
+//                        break;
+//
+//
+//
+//                }
+//
+//
+//            }
+//
+//
+//
+//        } catch (Exception e) {
+//            throw new RuntimeException(e);
+//        }
+//    }
 
 
     public NaukriPage(WebDriver driver) {
